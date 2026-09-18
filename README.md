@@ -89,7 +89,7 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Skyships](docs/concepts/58-skyship-combat.png) | Battleship, skiff, broadside, boarding, crash |
 | [Gate Defense](docs/concepts/59-gate-defense.png) | Gate hold, batteries, charge, last stand, repairs |
 | [Rebirth](docs/concepts/60-reincarnation-lobby.png) | Ferry, judgment, memory well, gates, altar |
-| Dao Garden | ⏳ Sheet 61 pending re-issue (English-label fix) |
+| [Dao Garden](docs/concepts/61-dao-fruit-garden.png) | Comprehension tree, sword pond, tea table, petal path, harvest |
 | [Endings](docs/concepts/62-ending-variants.png) | Submit, defy, sect eternal, bloodline |
 
 *All sheets use English-only labels.*
