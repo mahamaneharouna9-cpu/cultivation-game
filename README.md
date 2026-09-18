@@ -151,6 +151,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Azure Cloud Public Halls](docs/concepts/120-azure-cloud-public-interiors.png) | Reception, missions, council, archive, treasury, dining |
 | [Azure Cloud Living Quarters](docs/concepts/121-azure-cloud-living-interiors.png) | Dormitory, disciple suite, elder residence, baths, infirmary, guest house |
 | [Azure Cloud Training Halls](docs/concepts/122-azure-cloud-training-interiors.png) | Sword hall, meditation, alchemy, forge, formations, cultivation cave |
+| [Crimson Phoenix Public Interiors](docs/concepts/123-crimson-phoenix-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Crimson Phoenix Living Interiors](docs/concepts/124-crimson-phoenix-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Crimson Phoenix Training Interiors](docs/concepts/125-crimson-phoenix-training-interiors.png) | Alchemy hall, fire arena, meditation, pill lab, herb room, training layout |
+| [Iron Mountain Public Interiors](docs/concepts/126-iron-mountain-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Iron Mountain Living Interiors](docs/concepts/127-iron-mountain-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Iron Mountain Training Interiors](docs/concepts/128-iron-mountain-training-interiors.png) | Weight court, sparring hall, gravity room, forge, recovery room, training layout |
+| [Jade Spirit Public Interiors](docs/concepts/129-jade-spirit-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Jade Spirit Living Interiors](docs/concepts/130-jade-spirit-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Jade Spirit Training Interiors](docs/concepts/131-jade-spirit-training-interiors.png) | Formation hall, talisman studio, meditation, crystal lab, ward testing, training layout |
+| [Azure Cloud Service Interiors](docs/concepts/132-azure-cloud-service-interiors.png) | Storehouse, workshop, staff room, security room, laundry, service layout |
 
 *All sheets use English-only labels.*
 

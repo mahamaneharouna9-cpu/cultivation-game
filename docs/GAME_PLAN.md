@@ -173,6 +173,16 @@
 | `120-azure-cloud-public-interiors.png` | Reception, missions, council, archive, treasury, dining | Seven-sect architecture (Parts 2–4) |
 | `121-azure-cloud-living-interiors.png` | Dormitory, disciple suite, elder residence, baths, infirmary, guest house | Seven-sect architecture (Parts 2–4) |
 | `122-azure-cloud-training-interiors.png` | Sword hall, meditation, alchemy, forge, formations, cultivation cave | Seven-sect architecture (Parts 2–4) |
+| `123-crimson-phoenix-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Sect interior concepts (Parts 2–4) |
+| `124-crimson-phoenix-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Sect interior concepts (Parts 2–4) |
+| `125-crimson-phoenix-training-interiors.png` | Alchemy hall, fire arena, meditation, pill lab, herb room, training layout | Sect interior concepts (Parts 2–4) |
+| `126-iron-mountain-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Sect interior concepts (Parts 2–4) |
+| `127-iron-mountain-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Sect interior concepts (Parts 2–4) |
+| `128-iron-mountain-training-interiors.png` | Weight court, sparring hall, gravity room, forge, recovery room, training layout | Sect interior concepts (Parts 2–4) |
+| `129-jade-spirit-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Sect interior concepts (Parts 2–4) |
+| `130-jade-spirit-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Sect interior concepts (Parts 2–4) |
+| `131-jade-spirit-training-interiors.png` | Formation hall, talisman studio, meditation, crystal lab, ward testing, training layout | Sect interior concepts (Parts 2–4) |
+| `132-azure-cloud-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Sect interior concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -209,8 +219,9 @@ Style requirement: xianxia East Asian fantasy throughout all seven sects. Use sw
 
 Batch 11 (113–122): seven campus/exterior/interior overview sheets, plus Azure Cloud public, living and training interiors. These are concept layouts, not complete construction drawings or implemented game scenes. All ten sheets visually reviewed after generation.
 
+Batch 12 (123–132) complete: Crimson Phoenix, Iron Mountain and Jade Spirit public/living/training interiors, plus Azure Cloud service interiors. All ten sheets visually reviewed. Views include furnished room perspectives, cutaways and conceptual wing layouts; these are not validated architectural floor plans.
+
 Remaining interior coverage is planned, not yet generated:
-- Batch 12 (123–132): Crimson Phoenix public/living/training (3), Iron Mountain public/living/training (3), Jade Spirit public/living/training (3), Azure Cloud service buildings (1).
 - Batch 13 (133–142): Shadow Moon public/living/training (3), Thousand Beast public/living/training (3), Heavenly Dao public/living/training (3), Crimson Phoenix service buildings (1).
 - Batch 14 (143–152): service interiors for Iron Mountain, Jade Spirit, Shadow Moon, Thousand Beast and Heavenly Dao (5); gatehouse/guardhouse layouts (1), kitchens/pantries (1), sanitation/laundry/utilities (1), connected floor plans (1), architectural material and modular kit comparison (1).
 
