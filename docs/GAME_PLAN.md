@@ -83,6 +83,16 @@
 | `30-mounts-flying-treasures.png` | Crane, flying sword, boat, gourd, tiger, kite glider | Mounts + flight (Parts 2–3) |
 | `31-mortal-kingdoms.png` | Emperor, general, merchant, auctioneer, blacksmith, innkeeper | Kingdom NPCs + auction (Parts 2–3) |
 | `32-demonic-sect.png` | Demon lord, blood elder, asura, succubus, puppeteer, defected disciple | Enemy faction (Parts 3–4) |
+| `33-auction-commerce.png` | Auction hall, black market, appraisal, stalls, vault exchange | Economy spaces (Parts 2–3) |
+| `34-bonding-ceremony.png` | Vow ritual, ceremony robes, dual chamber, soul resonance, bond token | Bonding system (Part 3) |
+| `35-sect-war.png` | Battlefield, sky duel, siege, war banners, medic tent | Sect war arc (Part 4) |
+| `36-celestial-court.png` | Celestial emperor, moon consort, general, scribe, gate warden | Immortal court cast (Part 4) |
+| `37-divine-beasts.png` | Azure dragon, vermilion bird, white tiger, black tortoise, qilin | Divine beast encounters (Part 4) |
+| `38-legendary-artifacts.png` | 8 famous treasures with lore | Treasure rankings (Parts 3–4) |
+| `39-life-skills.png` | Fishing, cooking, farming, mining, rune carving, grooming | Life-skill minigames (Part 3) |
+| `40-festival-events.png` | Lantern night, tournament, harvest feast, new year, fireworks show | Seasonal events (Parts 2–4) |
+| `41-seven-sects-disciples.png` | Signature disciple of each of the 7 sects | Faction identity (Parts 1–2) |
+| `42-higher-realm-architecture.png` | Heaven gate, observatory, floating palace, stele forest, rainbow bridge | Immortal World map (Part 4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

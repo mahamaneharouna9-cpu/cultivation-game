@@ -61,6 +61,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Mounts](docs/concepts/30-mounts-flying-treasures.png) | Crane, sword, boat, gourd, tiger, kite glider |
 | [Kingdoms](docs/concepts/31-mortal-kingdoms.png) | Emperor, general, merchant, auctioneer, smith, innkeeper |
 | [Demonic Sect](docs/concepts/32-demonic-sect.png) | Demon lord, blood elder, asura, succubus, puppeteer, traitor |
+| [Commerce](docs/concepts/33-auction-commerce.png) | Auction hall, black market, appraisal, stalls, vault |
+| [Bonding](docs/concepts/34-bonding-ceremony.png) | Vow ritual, robes, dual chamber, soul resonance, token |
+| [Sect War](docs/concepts/35-sect-war.png) | Battlefield, sky duel, siege, banners, medic tent |
+| [Celestial Court](docs/concepts/36-celestial-court.png) | Emperor, consort, general, scribe, warden |
+| [Divine Beasts](docs/concepts/37-divine-beasts.png) | Dragon, phoenix, tiger, tortoise, qilin |
+| [Artifacts](docs/concepts/38-legendary-artifacts.png) | 8 famous treasures with lore |
+| [Life Skills](docs/concepts/39-life-skills.png) | Fishing, cooking, farming, mining, runes, grooming |
+| [Festivals](docs/concepts/40-festival-events.png) | Lanterns, tournament, feast, new year, fireworks |
+| [Seven Sects](docs/concepts/41-seven-sects-disciples.png) | Signature disciple of each sect |
+| [Heaven Map](docs/concepts/42-higher-realm-architecture.png) | Heaven gate, observatory, palace, steles, bridge |
 
 *All sheets use English-only labels.*
 
