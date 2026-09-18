@@ -81,6 +81,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Ancestors & Dao](docs/concepts/50-ancestral-dao.png) | Ancestral hall, steles, mural, platform, bell |
 | [Final Arena](docs/concepts/51-final-arena.png) | Throne of Heaven, 3 phases |
 | [Ascension](docs/concepts/52-ascension-ceremony.png) | Platform, gate, farewell, first step, registry |
+| [Council Drama](docs/concepts/53-council-drama.png) | Table, accusation, vote, expulsion, ballot room |
+| [Rogue Camps](docs/concepts/54-rogue-camps.png) | Cliff camp, bounties, fence, fight pit, oath fire |
+| [Spirit Veins](docs/concepts/55-spirit-vein-caverns.png) | Vein hall, nooks, guardians, shaft, vein heart |
+| [Mishaps](docs/concepts/56-alchemy-mishaps.png) | Explosion, poison, golem, frost, lucky success |
+| [Tomb Raid](docs/concepts/57-tomb-raid.png) | Sealed door, traps, chamber, guardian, niche |
+| [Skyships](docs/concepts/58-skyship-combat.png) | Battleship, skiff, broadside, boarding, crash |
+| [Gate Defense](docs/concepts/59-gate-defense.png) | Gate hold, batteries, charge, last stand, repairs |
+| [Rebirth](docs/concepts/60-reincarnation-lobby.png) | Ferry, judgment, memory well, gates, altar |
+| Dao Garden | ⏳ Sheet 61 pending re-issue (English-label fix) |
+| [Endings](docs/concepts/62-ending-variants.png) | Submit, defy, sect eternal, bloodline |
 
 *All sheets use English-only labels.*
 

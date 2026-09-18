@@ -103,6 +103,16 @@
 | `50-ancestral-dao.png` | Ancestral hall, sword stele, alchemy mural, enlightenment platform, karma bell | Dao comprehension sites (Part 3) |
 | `51-final-arena.png` | Throne of Heaven arena, 3 phases + throne | Final boss arena (Part 4) |
 | `52-ascension-ceremony.png` | Tribulation platform, gate opening, farewell, first step, registry | Ascension sequence (Part 4) |
+| `53-council-drama.png` | Long table, accusation, blade vote, expulsion, ballot room | Sect politics scenes (Parts 2–4) |
+| `54-rogue-camps.png` | Cliff camp, bounty post, fence tent, fight pit, oath fire | Outlaw hubs (Parts 2–3) |
+| `55-spirit-vein-caverns.png` | Vein hall, nooks, guardians, collapsed shaft, vein heart | Cultivation hotspot dungeon (Part 3) |
+| `56-alchemy-mishaps.png` | Explosion, poison cloud, pill golem, frost backfire, lucky success | Alchemy fail states (Part 3) |
+| `57-tomb-raid.png` | Sealed door, trapped corridor, burial chamber, guardian, niche | Tomb dungeon (Part 3) |
+| `58-skyship-combat.png` | Battleship, pirate skiff, broadside, boarding, crash | Aerial combat (Part 4) |
+| `59-gate-defense.png` | Gate hold, batteries, beast charge, elder stand, repairs | Siege defense event (Part 4) |
+| `60-reincarnation-lobby.png` | Ferry dock, judgment, memory well, rebirth gates, altar | NG+ reincarnation flow (Part 4) |
+| `61-dao-fruit-garden.png` | ⏳ PENDING re-issue (English-label fix) | Dao comprehension garden (Part 3) |
+| `62-ending-variants.png` | Submit, defy, sect eternal, bloodline continues | Ending cinematics (Part 4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
