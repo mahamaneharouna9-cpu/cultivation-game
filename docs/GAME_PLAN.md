@@ -63,6 +63,16 @@
 | `10-enemies-expansion.png` | Bandit chief, rogue cultivator, demon wolf, serpent, golem, skeleton general | Wilderness/dungeon enemy roster (Parts 2–3) |
 | `11-sect-hierarchy-npcs.png` | Sect Leader → Servant, 9-rank lineup | All sect NPC castes, tournaments, war councils (Parts 2–4) |
 | `12-realms-vfx-expansion.png` | Aura ladder, Dao manifestation, sword flight, soul avatar, tribulations, domain, bloodline | Realm-scaled FX + systems (Parts 2–4) |
+| `13-sect-interiors-2.png` | Mission hall, vault, punishment hall, bathhouse, spirit mine | Interior maps + economy spaces (Parts 2–3) |
+| `14-world-panoramas-2.png` | Frozen north, flamelands, sea isles, thunder plateau | Elemental world zones (Parts 3–4) |
+| `15-heroine-multiview.png` | Female hero: mortal → outer → inner turnarounds | Gender choice rig (Part 2) |
+| `16-protagonist-lifestages.png` | Hero at 8 / 16 / 25 / 200 / 2000 years | Aging + ancestor visuals (Parts 3–4) |
+| `17-enemies-3.png` | Stone ape, ghostface, venom toad, panther, corpse general, mosquito swarm | Dungeon/wild roster (Parts 2–3) |
+| `18-peak-masters.png` | Seven Peak Masters lineup | Sect leadership cast (Parts 2–4) |
+| `19-sect-staff.png` | Deacons, keeper, guard, pill boy, enforcer, chef | Service NPCs (Parts 2–3) |
+| `20-spirit-beasts-2.png` | Qilin, frost wolf, thunder eagle, turtle, carp, moon rabbit | Taming roster wave 2 (Part 3) |
+| `21-weapons-artifacts.png` | Swords–bows, storage ring, flying boat | Weapon/treasure models (Parts 2–3) |
+| `22-pills-herbs-materials.png` | Pill ladder, herbs, ores, talismans, furnace | Alchemy + gathering visuals (Part 3) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

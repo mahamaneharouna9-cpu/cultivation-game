@@ -41,6 +41,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Enemies II](docs/concepts/10-enemies-expansion.png) | Bandit chief, rogue, demon wolf, serpent, golem, skeleton general |
 | [Sect Hierarchy](docs/concepts/11-sect-hierarchy-npcs.png) | Sect Leader → Servant Disciple, full 9-rank lineup |
 | [Realms & VFX II](docs/concepts/12-realms-vfx-expansion.png) | Aura ladder, Dao manifestation, soul avatar, domains, bloodline |
+| [Interiors II](docs/concepts/13-sect-interiors-2.png) | Mission hall, vault, punishment hall, bathhouse, spirit mine |
+| [Panoramas II](docs/concepts/14-world-panoramas-2.png) | Frozen north, flamelands, sea isles, thunder plateau |
+| [Heroine](docs/concepts/15-heroine-multiview.png) | Female hero turnarounds, mortal → inner disciple |
+| [Life Stages](docs/concepts/16-protagonist-lifestages.png) | Hero at 8 / 16 / 25 / 200 / 2000 years |
+| [Enemies III](docs/concepts/17-enemies-3.png) | Ape, ghostface, toad, panther, corpse general, mosquitoes |
+| [Peak Masters](docs/concepts/18-peak-masters.png) | The Seven Peak Masters lineup |
+| [Sect Staff](docs/concepts/19-sect-staff.png) | Deacons, keeper, guard, pill boy, enforcer, chef |
+| [Beasts II](docs/concepts/20-spirit-beasts-2.png) | Qilin, frost wolf, thunder eagle, turtle, carp, rabbit |
+| [Weapons](docs/concepts/21-weapons-artifacts.png) | Full armory + storage ring + flying boat |
+| [Alchemy](docs/concepts/22-pills-herbs-materials.png) | Pill ladder, herbs, ores, talismans, furnace |
 
 *All sheets use English-only labels.*
 
