@@ -143,6 +143,16 @@
 | `90-guardian-workshop.png` | Assembly hall, guardian views, core assembly, tools, artisan views, floor plan | Construct crafting (Parts 3–4) |
 | `91-saltglass-coast.png` | Coast view, cliff home cutaway, diver views, skiff views, tide cave, site plan | Coastal exploration (Part 3) |
 | `92-peace-summit.png` | Pavilion, council room, envoy views, ceremonial staff, guest court, site plan | Sect diplomacy (Part 4) |
+| `93-spirit-orchard.png` | Terraces, fruit tree, irrigation, harvest, gardener, site plan | Resource gathering (Parts 2–3) |
+| `94-cloud-harbor.png` | Harbor, dock tower, sky boat views, boarding bridge, mooring winch, site plan | Sky travel (Part 4) |
+| `95-jade-bathhouse.png` | Exterior, pool hall, private pool, heater views, attendant, floor plan | Sect recovery (Parts 2–3) |
+| `96-echo-canyon.png` | Canyon, cliff shrine, rope bridge, resonance bowl, crystal cave, route plan | Exploration puzzles (Part 3) |
+| `97-lotus-marsh.png` | Marsh, stilt hut, skiff views, giant lotus, boardwalk, site plan | Wetland exploration (Part 3) |
+| `98-meteor-crater.png` | Crater, base camp, meteor core, sampling arm, glass cave, site plan | Rare materials (Parts 3–4) |
+| `99-sword-graveyard.png` | Valley, memorial arch, ancient blades, keeper views, meditation circle, site plan | Sword trials (Part 3) |
+| `100-spirit-courier.png` | Outpost, messenger turnaround, winged deer, travel gear, dispatch room, floor plan | Delivery missions (Parts 2–4) |
+| `101-mirror-lake.png` | Lake, floating shrine, stone path, mirror gate, rest pavilion, site plan | Pilgrimage (Part 3) |
+| `102-sect-emergency.png` | Safe courtyard, rescue worker turnaround, supply cart, healing room, bell, exit plan | Sect emergency events (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

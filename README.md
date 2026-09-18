@@ -121,6 +121,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Guardian Workshop](docs/concepts/90-guardian-workshop.png) | Assembly hall, guardian views, core assembly, tools, artisan views, floor plan |
 | [Saltglass Coast](docs/concepts/91-saltglass-coast.png) | Coast view, cliff home cutaway, diver views, skiff views, tide cave, site plan |
 | [Peace Summit](docs/concepts/92-peace-summit.png) | Pavilion, council room, envoy views, ceremonial staff, guest court, site plan |
+| [Spirit Orchard](docs/concepts/93-spirit-orchard.png) | Terraces, fruit tree, irrigation, harvest, gardener, site plan |
+| [Cloud Harbor](docs/concepts/94-cloud-harbor.png) | Harbor, dock tower, sky boat views, boarding bridge, mooring winch, site plan |
+| [Jade Bathhouse](docs/concepts/95-jade-bathhouse.png) | Exterior, pool hall, private pool, heater views, attendant, floor plan |
+| [Echo Canyon](docs/concepts/96-echo-canyon.png) | Canyon, cliff shrine, rope bridge, resonance bowl, crystal cave, route plan |
+| [Lotus Marsh](docs/concepts/97-lotus-marsh.png) | Marsh, stilt hut, skiff views, giant lotus, boardwalk, site plan |
+| [Meteor Crater](docs/concepts/98-meteor-crater.png) | Crater, base camp, meteor core, sampling arm, glass cave, site plan |
+| [Sword Graveyard](docs/concepts/99-sword-graveyard.png) | Valley, memorial arch, ancient blades, keeper views, meditation circle, site plan |
+| [Spirit Courier](docs/concepts/100-spirit-courier.png) | Outpost, messenger turnaround, winged deer, travel gear, dispatch room, floor plan |
+| [Mirror Lake](docs/concepts/101-mirror-lake.png) | Lake, floating shrine, stone path, mirror gate, rest pavilion, site plan |
+| [Sect Emergency](docs/concepts/102-sect-emergency.png) | Safe courtyard, rescue worker turnaround, supply cart, healing room, bell, exit plan |
 
 *All sheets use English-only labels.*
 
