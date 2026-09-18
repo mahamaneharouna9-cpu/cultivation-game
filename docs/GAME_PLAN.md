@@ -123,13 +123,13 @@
 | `70-desert-caravan.png` | Oasis camp, skiff turnaround, pack beast, tent, waystation, caravan plan | Travel and trade (Part 3) |
 | `71-sect-construction.png` | Exploded hall, wall kit, bridge elevations, scaffolding, storage yard, settlement plan | Sect building (Part 4) |
 | `72-sect-seasons.png` | Courtyard in four seasons; gate at dawn and night | Seasonal environment studies (Parts 2–4) |
-| 73 — Spirit Library (pending) | Pending regeneration: remove writing from book pages | Archive environment (Parts 2–4) |
+| `73-spirit-library.png` | Archive hall, shelf elevation, reading room, sealed vault, memory orb, floor plan | Archive environment (Parts 2–4) |
 | `74-prison-complex.png` | Cliff gate, sealed cell, restraint ring, guard corridor, quiet court, floor plan | Sect justice (Parts 2–4) |
 | `75-messenger-network.png` | Post station, dispatch room, courier turnaround, capsule, landing platform, floor plan | Sect travel and communication (Parts 2–4) |
 | `76-fishing-retreat.png` | Lake pavilion, dock, spirit rod, fish habitat, hut cutaway, lake plan | Life skills (Parts 2–4) |
 | `77-mushroom-depths.png` | Cavern, giant fungi, spore bridge, herbalist camp, guardian views, cavern plan | Dungeon exploration (Parts 2–4) |
 | `78-volcanic-refinery.png` | Crater works, smelting hall, furnace, cooling channel, ore lift, floor plan | Crafting environment (Parts 2–4) |
-| 79 — Frozen Observatory (pending) | Pending regeneration: remove script-like instrument markings | Celestial study (Parts 2–4) |
+| `79-frozen-observatory.png` | Summit view, tower views, telescope, star chamber, snow bridge, floor plan | Celestial study (Parts 2–4) |
 | `80-storm-lighthouse.png` | Island view, tower elevations, beacon breakdown, keeper room, dock, island plan | Coastal exploration (Parts 2–4) |
 | `81-dream-labyrinth.png` | Maze view, mirror corridor, floating stairs, dream gate, awakening platform, maze plan | Dream dungeon (Parts 2–4) |
 | `82-world-tree-refuge.png` | Tree settlement, root entrance, canopy home, seed shrine, branch bridge, village plan | Sanctuary environment (Parts 2–4) |

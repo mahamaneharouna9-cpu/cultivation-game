@@ -101,13 +101,13 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Desert Caravan](docs/concepts/70-desert-caravan.png) | Oasis camp, skiff turnaround, pack beast, tent, waystation, caravan plan |
 | [Sect Construction](docs/concepts/71-sect-construction.png) | Exploded hall, wall kit, bridge elevations, scaffolding, storage yard, settlement plan |
 | [Sect Seasons](docs/concepts/72-sect-seasons.png) | Courtyard in four seasons; gate at dawn and night |
-| 73 — Spirit Library (pending) | Pending regeneration: remove writing from book pages |
+| [Spirit Library](docs/concepts/73-spirit-library.png) | Archive hall, shelf elevation, reading room, sealed vault, memory orb, floor plan |
 | [Mountain Prison](docs/concepts/74-prison-complex.png) | Cliff gate, sealed cell, restraint ring, guard corridor, quiet court, floor plan |
 | [Messenger Network](docs/concepts/75-messenger-network.png) | Post station, dispatch room, courier turnaround, capsule, landing platform, floor plan |
 | [Fishing Retreat](docs/concepts/76-fishing-retreat.png) | Lake pavilion, dock, spirit rod, fish habitat, hut cutaway, lake plan |
 | [Mushroom Depths](docs/concepts/77-mushroom-depths.png) | Cavern, giant fungi, spore bridge, herbalist camp, guardian views, cavern plan |
 | [Volcanic Refinery](docs/concepts/78-volcanic-refinery.png) | Crater works, smelting hall, furnace, cooling channel, ore lift, floor plan |
-| 79 — Frozen Observatory (pending) | Pending regeneration: remove script-like instrument markings |
+| [Frozen Observatory](docs/concepts/79-frozen-observatory.png) | Summit view, tower views, telescope, star chamber, snow bridge, floor plan |
 | [Storm Lighthouse](docs/concepts/80-storm-lighthouse.png) | Island view, tower elevations, beacon breakdown, keeper room, dock, island plan |
 | [Dream Labyrinth](docs/concepts/81-dream-labyrinth.png) | Maze view, mirror corridor, floating stairs, dream gate, awakening platform, maze plan |
 | [World Tree Refuge](docs/concepts/82-world-tree-refuge.png) | Tree settlement, root entrance, canopy home, seed shrine, branch bridge, village plan |
