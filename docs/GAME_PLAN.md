@@ -73,6 +73,16 @@
 | `20-spirit-beasts-2.png` | Qilin, frost wolf, thunder eagle, turtle, carp, moon rabbit | Taming roster wave 2 (Part 3) |
 | `21-weapons-artifacts.png` | Swords–bows, storage ring, flying boat | Weapon/treasure models (Parts 2–3) |
 | `22-pills-herbs-materials.png` | Pill ladder, herbs, ores, talismans, furnace | Alchemy + gathering visuals (Part 3) |
+| `23-sect-exteriors-2.png` | Mission hall, treasure pavilion, punishment cliff, grand plaza, dome formation | Sect grounds expansion (Parts 2–3) |
+| `24-secret-realms.png` | Sunken palace, sky sword isles, volcanic heart, mirror maze | Secret realm dungeons (Parts 3–4) |
+| `25-dao-companions.png` | Sword fairy, alchemist, beast tamer, rogue witch, holy maiden | Romance cast (Part 3) |
+| `26-children-family.png` | Infant → disciple stages, training, family robes | Bloodline system visuals (Part 3) |
+| `27-arc-bosses.png` | Demonic heir, serpent king, fallen elder, heart demon lord | Story boss designs (Parts 2–4) |
+| `28-tribulations-phenomena.png` | Ninefold lightning, karma fire, heaven's eye, soul chains, pill lightning, blood moon | Tribulation encounters (Parts 3–4) |
+| `29-formations-talismans.png` | Gathering/sword/illusion/teleport/seal arrays + talisman set | Formation + talisman crafting (Part 3) |
+| `30-mounts-flying-treasures.png` | Crane, flying sword, boat, gourd, tiger, kite glider | Mounts + flight (Parts 2–3) |
+| `31-mortal-kingdoms.png` | Emperor, general, merchant, auctioneer, blacksmith, innkeeper | Kingdom NPCs + auction (Parts 2–3) |
+| `32-demonic-sect.png` | Demon lord, blood elder, asura, succubus, puppeteer, defected disciple | Enemy faction (Parts 3–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

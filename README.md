@@ -51,6 +51,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Beasts II](docs/concepts/20-spirit-beasts-2.png) | Qilin, frost wolf, thunder eagle, turtle, carp, rabbit |
 | [Weapons](docs/concepts/21-weapons-artifacts.png) | Full armory + storage ring + flying boat |
 | [Alchemy](docs/concepts/22-pills-herbs-materials.png) | Pill ladder, herbs, ores, talismans, furnace |
+| [Buildings II](docs/concepts/23-sect-exteriors-2.png) | Mission hall, treasure pavilion, punishment cliff, plaza, dome |
+| [Secret Realms](docs/concepts/24-secret-realms.png) | Sunken palace, sky isles, volcanic heart, mirror maze |
+| [Companions](docs/concepts/25-dao-companions.png) | Sword fairy, alchemist, tamer, witch, holy maiden |
+| [Family](docs/concepts/26-children-family.png) | Child stages, training, family robes |
+| [Bosses](docs/concepts/27-arc-bosses.png) | Demonic heir, serpent king, fallen elder, heart demon lord |
+| [Tribulations](docs/concepts/28-tribulations-phenomena.png) | Lightning, karma fire, heaven's eye, soul chains, blood moon |
+| [Formations](docs/concepts/29-formations-talismans.png) | Five grand arrays + five-talisman set |
+| [Mounts](docs/concepts/30-mounts-flying-treasures.png) | Crane, sword, boat, gourd, tiger, kite glider |
+| [Kingdoms](docs/concepts/31-mortal-kingdoms.png) | Emperor, general, merchant, auctioneer, smith, innkeeper |
+| [Demonic Sect](docs/concepts/32-demonic-sect.png) | Demon lord, blood elder, asura, succubus, puppeteer, traitor |
 
 *All sheets use English-only labels.*
 
