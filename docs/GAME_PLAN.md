@@ -133,6 +133,16 @@
 | `80-storm-lighthouse.png` | Island view, tower elevations, beacon breakdown, keeper room, dock, island plan | Coastal exploration (Parts 2–4) |
 | `81-dream-labyrinth.png` | Maze view, mirror corridor, floating stairs, dream gate, awakening platform, maze plan | Dream dungeon (Parts 2–4) |
 | `82-world-tree-refuge.png` | Tree settlement, root entrance, canopy home, seed shrine, branch bridge, village plan | Sanctuary environment (Parts 2–4) |
+| `83-spirit-kitchen.png` | Main hall, stove views, pantry, serving court, chef views, floor plan | Sect cooking (Parts 2–3) |
+| `84-cloud-weaving.png` | Workshop, loom views, thread spools, dye pools, weaver views, floor plan | Textile crafting (Part 3) |
+| `85-beast-sanctuary.png` | Valley view, hatchery, healer pavilion, keeper views, feeding station, site plan | Beast care (Parts 2–3) |
+| `86-crystal-transit.png` | Station, gondola views, boarding platform, crystal engine, conductor views, route plan | Mountain transport (Parts 3–4) |
+| `87-rainforest-ruins.png` | Entrance, drowned court, guardian views, stone door, root chamber, dungeon plan | Exploration dungeon (Part 3) |
+| `88-moonwell-retreat.png` | Night view, well section, quiet room, moon lantern, keeper views, site plan | Cultivation retreat (Parts 3–4) |
+| `89-thunder-quarry.png` | Pit view, lift views, crystal drill, sorting hall, miner views, quarry plan | Resource gathering (Part 3) |
+| `90-guardian-workshop.png` | Assembly hall, guardian views, core assembly, tools, artisan views, floor plan | Construct crafting (Parts 3–4) |
+| `91-saltglass-coast.png` | Coast view, cliff home cutaway, diver views, skiff views, tide cave, site plan | Coastal exploration (Part 3) |
+| `92-peace-summit.png` | Pavilion, council room, envoy views, ceremonial staff, guest court, site plan | Sect diplomacy (Part 4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

@@ -111,6 +111,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Storm Lighthouse](docs/concepts/80-storm-lighthouse.png) | Island view, tower elevations, beacon breakdown, keeper room, dock, island plan |
 | [Dream Labyrinth](docs/concepts/81-dream-labyrinth.png) | Maze view, mirror corridor, floating stairs, dream gate, awakening platform, maze plan |
 | [World Tree Refuge](docs/concepts/82-world-tree-refuge.png) | Tree settlement, root entrance, canopy home, seed shrine, branch bridge, village plan |
+| [Spirit Kitchen](docs/concepts/83-spirit-kitchen.png) | Main hall, stove views, pantry, serving court, chef views, floor plan |
+| [Cloud Weaving](docs/concepts/84-cloud-weaving.png) | Workshop, loom views, thread spools, dye pools, weaver views, floor plan |
+| [Beast Sanctuary](docs/concepts/85-beast-sanctuary.png) | Valley view, hatchery, healer pavilion, keeper views, feeding station, site plan |
+| [Crystal Transit](docs/concepts/86-crystal-transit.png) | Station, gondola views, boarding platform, crystal engine, conductor views, route plan |
+| [Rainforest Ruins](docs/concepts/87-rainforest-ruins.png) | Entrance, drowned court, guardian views, stone door, root chamber, dungeon plan |
+| [Moonwell Retreat](docs/concepts/88-moonwell-retreat.png) | Night view, well section, quiet room, moon lantern, keeper views, site plan |
+| [Thunder Quarry](docs/concepts/89-thunder-quarry.png) | Pit view, lift views, crystal drill, sorting hall, miner views, quarry plan |
+| [Guardian Workshop](docs/concepts/90-guardian-workshop.png) | Assembly hall, guardian views, core assembly, tools, artisan views, floor plan |
+| [Saltglass Coast](docs/concepts/91-saltglass-coast.png) | Coast view, cliff home cutaway, diver views, skiff views, tide cave, site plan |
+| [Peace Summit](docs/concepts/92-peace-summit.png) | Pavilion, council room, envoy views, ceremonial staff, guest court, site plan |
 
 *All sheets use English-only labels.*
 
