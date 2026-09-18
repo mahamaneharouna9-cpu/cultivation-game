@@ -153,6 +153,16 @@
 | `100-spirit-courier.png` | Outpost, messenger turnaround, winged deer, travel gear, dispatch room, floor plan | Delivery missions (Parts 2–4) |
 | `101-mirror-lake.png` | Lake, floating shrine, stone path, mirror gate, rest pavilion, site plan | Pilgrimage (Part 3) |
 | `102-sect-emergency.png` | Safe courtyard, rescue worker turnaround, supply cart, healing room, bell, exit plan | Sect emergency events (Parts 2–4) |
+| `103-azure-grounds-gatehouse.png` | Campus, site plan, gate elevations, gate cutaway, guard room | Azure Cloud architecture (Parts 2–4) |
+| `104-azure-main-hall.png` | Exterior, cutaway, floor plan, council chamber, elder office, ancestral room | Azure Cloud architecture (Parts 2–4) |
+| `105-azure-sword-academy.png` | Exterior views, cutaway, floor plan, training hall, weapon room, sparring court | Azure Cloud architecture (Parts 2–4) |
+| `106-azure-library.png` | Exterior, cutaway, floor plan, archive, study room, manual vault | Azure Cloud architecture (Parts 2–4) |
+| `107-azure-disciple-housing.png` | Exterior views, cutaway, floor plan, shared room, dining and kitchen, bath and laundry | Azure Cloud architecture (Parts 2–4) |
+| `108-azure-elder-residence.png` | Exterior views, cutaway, floor plan, tea room, private quarters, meditation room | Azure Cloud architecture (Parts 2–4) |
+| `109-azure-alchemy-infirmary.png` | Exterior, cutaway, floor plan, alchemy room, infirmary, pharmacy | Azure Cloud architecture (Parts 2–4) |
+| `110-azure-workshops-treasury.png` | Exterior views, cutaway, floor plan, sword forge, repair room, treasury | Azure Cloud architecture (Parts 2–4) |
+| `111-azure-mission-discipline-hall.png` | Exterior, cutaway, floor plan, mission desk, hearing room, detention room | Azure Cloud architecture (Parts 2–4) |
+| `112-azure-cultivation-retreat.png` | Exterior views, cliff cutaway, floor plan, private cave, meditation hall, service room | Azure Cloud architecture (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

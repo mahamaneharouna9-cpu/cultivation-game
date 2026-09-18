@@ -131,6 +131,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Spirit Courier](docs/concepts/100-spirit-courier.png) | Outpost, messenger turnaround, winged deer, travel gear, dispatch room, floor plan |
 | [Mirror Lake](docs/concepts/101-mirror-lake.png) | Lake, floating shrine, stone path, mirror gate, rest pavilion, site plan |
 | [Sect Emergency](docs/concepts/102-sect-emergency.png) | Safe courtyard, rescue worker turnaround, supply cart, healing room, bell, exit plan |
+| [Azure Grounds and Gatehouse](docs/concepts/103-azure-grounds-gatehouse.png) | Campus, site plan, gate elevations, gate cutaway, guard room |
+| [Azure Main Hall](docs/concepts/104-azure-main-hall.png) | Exterior, cutaway, floor plan, council chamber, elder office, ancestral room |
+| [Azure Sword Academy](docs/concepts/105-azure-sword-academy.png) | Exterior views, cutaway, floor plan, training hall, weapon room, sparring court |
+| [Azure Library](docs/concepts/106-azure-library.png) | Exterior, cutaway, floor plan, archive, study room, manual vault |
+| [Azure Disciple Housing](docs/concepts/107-azure-disciple-housing.png) | Exterior views, cutaway, floor plan, shared room, dining and kitchen, bath and laundry |
+| [Azure Elder Residence](docs/concepts/108-azure-elder-residence.png) | Exterior views, cutaway, floor plan, tea room, private quarters, meditation room |
+| [Azure Healing Hall](docs/concepts/109-azure-alchemy-infirmary.png) | Exterior, cutaway, floor plan, alchemy room, infirmary, pharmacy |
+| [Azure Workshops and Treasury](docs/concepts/110-azure-workshops-treasury.png) | Exterior views, cutaway, floor plan, sword forge, repair room, treasury |
+| [Azure Service Hall](docs/concepts/111-azure-mission-discipline-hall.png) | Exterior, cutaway, floor plan, mission desk, hearing room, detention room |
+| [Azure Cultivation Retreat](docs/concepts/112-azure-cultivation-retreat.png) | Exterior views, cliff cutaway, floor plan, private cave, meditation hall, service room |
 
 *All sheets use English-only labels.*
 
