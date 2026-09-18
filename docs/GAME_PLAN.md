@@ -183,6 +183,16 @@
 | `130-jade-spirit-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Sect interior concepts (Parts 2–4) |
 | `131-jade-spirit-training-interiors.png` | Formation hall, talisman studio, meditation, crystal lab, ward testing, training layout | Sect interior concepts (Parts 2–4) |
 | `132-azure-cloud-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Sect interior concepts (Parts 2–4) |
+| `133-shadow-moon-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Seven-sect interior reference (Parts 2–4) |
+| `134-shadow-moon-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
+| `135-shadow-moon-training-interiors.png` | Stealth hall, dagger hall, meditation, shadow chamber, hidden passage, training layout | Seven-sect interior reference (Parts 2–4) |
+| `136-thousand-beast-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Seven-sect interior reference (Parts 2–4) |
+| `137-thousand-beast-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
+| `138-thousand-beast-training-interiors.png` | Bonding arena, hatchery, beast clinic, aviary, feed room, training layout | Seven-sect interior reference (Parts 2–4) |
+| `139-heavenly-dao-public-interiors.png` | Reception, mission hall, council, archive, treasury, dining | Seven-sect interior reference (Parts 2–4) |
+| `140-heavenly-dao-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
+| `141-heavenly-dao-training-interiors.png` | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout | Seven-sect interior reference (Parts 2–4) |
+| `142-crimson-phoenix-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Seven-sect interior reference (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

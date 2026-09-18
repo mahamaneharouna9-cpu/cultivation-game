@@ -161,6 +161,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Jade Spirit Living Interiors](docs/concepts/130-jade-spirit-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
 | [Jade Spirit Training Interiors](docs/concepts/131-jade-spirit-training-interiors.png) | Formation hall, talisman studio, meditation, crystal lab, ward testing, training layout |
 | [Azure Cloud Service Interiors](docs/concepts/132-azure-cloud-service-interiors.png) | Storehouse, workshop, staff room, security room, laundry, service layout |
+| [Shadow Moon Public Interiors](docs/concepts/133-shadow-moon-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Shadow Moon Living Interiors](docs/concepts/134-shadow-moon-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Shadow Moon Training Interiors](docs/concepts/135-shadow-moon-training-interiors.png) | Stealth hall, dagger hall, meditation, shadow chamber, hidden passage, training layout |
+| [Thousand Beast Public Interiors](docs/concepts/136-thousand-beast-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Thousand Beast Living Interiors](docs/concepts/137-thousand-beast-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Thousand Beast Training Interiors](docs/concepts/138-thousand-beast-training-interiors.png) | Bonding arena, hatchery, beast clinic, aviary, feed room, training layout |
+| [Heavenly Dao Public Interiors](docs/concepts/139-heavenly-dao-public-interiors.png) | Reception, mission hall, council, archive, treasury, dining |
+| [Heavenly Dao Living Interiors](docs/concepts/140-heavenly-dao-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
+| [Heavenly Dao Training Interiors](docs/concepts/141-heavenly-dao-training-interiors.png) | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout |
+| [Crimson Phoenix Service Interiors](docs/concepts/142-crimson-phoenix-service-interiors.png) | Storehouse, workshop, staff room, security room, laundry, service layout |
 
 *All sheets use English-only labels.*
 
