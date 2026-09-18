@@ -141,6 +141,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Azure Workshops and Treasury](docs/concepts/110-azure-workshops-treasury.png) | Exterior views, cutaway, floor plan, sword forge, repair room, treasury |
 | [Azure Service Hall](docs/concepts/111-azure-mission-discipline-hall.png) | Exterior, cutaway, floor plan, mission desk, hearing room, detention room |
 | [Azure Cultivation Retreat](docs/concepts/112-azure-cultivation-retreat.png) | Exterior views, cliff cutaway, floor plan, private cave, meditation hall, service room |
+| [Azure Cloud Architecture](docs/concepts/83-spirit-kitchen.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Crimson Phoenix Architecture](docs/concepts/84-cloud-weaving.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Iron Mountain Architecture](docs/concepts/85-beast-sanctuary.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Jade Spirit Architecture](docs/concepts/86-crystal-transit.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Shadow Moon Architecture](docs/concepts/87-rainforest-ruins.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Thousand Beast Architecture](docs/concepts/88-moonwell-retreat.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Heavenly Dao Architecture](docs/concepts/89-thunder-quarry.png) | Campus, gate views, main hall exterior and cutaway, specialty hall, residence |
+| [Azure Cloud Public Halls](docs/concepts/90-guardian-workshop.png) | Reception, missions, council, archive, treasury, dining |
+| [Azure Cloud Living Quarters](docs/concepts/91-saltglass-coast.png) | Dormitory, disciple suite, elder residence, baths, infirmary, guest house |
+| [Azure Cloud Training Halls](docs/concepts/92-peace-summit.png) | Sword hall, meditation, alchemy, forge, formations, cultivation cave |
 
 *All sheets use English-only labels.*
 
