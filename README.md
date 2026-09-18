@@ -71,6 +71,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Festivals](docs/concepts/40-festival-events.png) | Lanterns, tournament, feast, new year, fireworks |
 | [Seven Sects](docs/concepts/41-seven-sects-disciples.png) | Signature disciple of each sect |
 | [Heaven Map](docs/concepts/42-higher-realm-architecture.png) | Heaven gate, observatory, palace, steles, bridge |
+| [Sunken Palace](docs/concepts/43-sunken-palace-interior.png) | Coral throne, library, vault, garden, whirlpool gate |
+| [Wedding Feast](docs/concepts/44-wedding-feast.png) | Feast hall, tea rite, fireworks, gifts, sword dance |
+| [Demon Lands](docs/concepts/45-demonic-lands-map.png) | Blood marsh, bone desert, citadel, fallen battlefield |
+| [Heaven Armory](docs/concepts/46-heavenly-armory.png) | 6 endgame gear sets |
+| [Pet Evolutions](docs/concepts/47-pet-evolutions.png) | Fox / carp / tiger / crane lines |
+| [Uniforms](docs/concepts/48-rank-uniforms.png) | Servant → Elder progression |
+| [Night Market](docs/concepts/49-night-market.png) | Food, fortunes, performers, trinkets, tea house |
+| [Ancestors & Dao](docs/concepts/50-ancestral-dao.png) | Ancestral hall, steles, mural, platform, bell |
+| [Final Arena](docs/concepts/51-final-arena.png) | Throne of Heaven, 3 phases |
+| [Ascension](docs/concepts/52-ascension-ceremony.png) | Platform, gate, farewell, first step, registry |
 
 *All sheets use English-only labels.*
 

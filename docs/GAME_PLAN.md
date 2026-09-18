@@ -93,6 +93,16 @@
 | `40-festival-events.png` | Lantern night, tournament, harvest feast, new year, fireworks show | Seasonal events (Parts 2–4) |
 | `41-seven-sects-disciples.png` | Signature disciple of each of the 7 sects | Faction identity (Parts 1–2) |
 | `42-higher-realm-architecture.png` | Heaven gate, observatory, floating palace, stele forest, rainbow bridge | Immortal World map (Part 4) |
+| `43-sunken-palace-interior.png` | Coral throne, drowned library, pearl vault, tide garden, whirlpool gate | Underwater dungeon interiors (Part 3) |
+| `44-wedding-feast.png` | Feast hall, tea ceremony, fireworks, gifts, sword dance | Bonding celebration event (Part 3) |
+| `45-demonic-lands-map.png` | Blood marsh, bone desert, demon citadel, fallen battlefield | Demonic zone map (Parts 3–4) |
+| `46-heavenly-armory.png` | Thunder armor, starfall swords, phoenix robe, frost bow, seal shield, void cloak | Endgame gear sets (Part 4) |
+| `47-pet-evolutions.png` | Fox / carp / tiger / crane 3-stage lines | Pet evolution system (Part 3) |
+| `48-rank-uniforms.png` | Servant → Elder uniform progression | Rank outfit models (Parts 1–2) |
+| `49-night-market.png` | Food street, fortune teller, performers, trinkets, tea house | Nightlife hub (Parts 2–3) |
+| `50-ancestral-dao.png` | Ancestral hall, sword stele, alchemy mural, enlightenment platform, karma bell | Dao comprehension sites (Part 3) |
+| `51-final-arena.png` | Throne of Heaven arena, 3 phases + throne | Final boss arena (Part 4) |
+| `52-ascension-ceremony.png` | Tribulation platform, gate opening, farewell, first step, registry | Ascension sequence (Part 4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
