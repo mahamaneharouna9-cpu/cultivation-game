@@ -111,7 +111,7 @@
 | `58-skyship-combat.png` | Battleship, pirate skiff, broadside, boarding, crash | Aerial combat (Part 4) |
 | `59-gate-defense.png` | Gate hold, batteries, beast charge, elder stand, repairs | Siege defense event (Part 4) |
 | `60-reincarnation-lobby.png` | Ferry dock, judgment, memory well, rebirth gates, altar | NG+ reincarnation flow (Part 4) |
-| `61-dao-fruit-garden.png` | Comprehension tree, sword pond, tea table, petal path, golden harvest | Dao comprehension garden (Part 3) |
+| `61-dao-fruit-garden.png` | Garden view, ancient tree, mirror pool, petal path, fruit shrine, meditation terrace | Dao comprehension garden (Part 3) |
 | `62-ending-variants.png` | Submit, defy, sect eternal, bloodline continues | Ending cinematics (Part 4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
