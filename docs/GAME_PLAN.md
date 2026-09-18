@@ -133,16 +133,6 @@
 | `80-storm-lighthouse.png` | Island view, tower elevations, beacon breakdown, keeper room, dock, island plan | Coastal exploration (Parts 2–4) |
 | `81-dream-labyrinth.png` | Maze view, mirror corridor, floating stairs, dream gate, awakening platform, maze plan | Dream dungeon (Parts 2–4) |
 | `82-world-tree-refuge.png` | Tree settlement, root entrance, canopy home, seed shrine, branch bridge, village plan | Sanctuary environment (Parts 2–4) |
-| `83-spirit-kitchen.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `84-cloud-weaving.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `85-beast-sanctuary.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `86-crystal-transit.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `87-rainforest-ruins.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `88-moonwell-retreat.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `89-thunder-quarry.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
-| `90-guardian-workshop.png` | Reception, missions, council, archive, treasury, dining | Seven-sect architecture (Parts 2–4) |
-| `91-saltglass-coast.png` | Dormitory, disciple suite, elder residence, baths, infirmary, guest house | Seven-sect architecture (Parts 2–4) |
-| `92-peace-summit.png` | Sword hall, meditation, alchemy, forge, formations, cultivation cave | Seven-sect architecture (Parts 2–4) |
 | `83-spirit-kitchen.png` | Main hall, stove views, pantry, serving court, chef views, floor plan | Sect cooking (Parts 2–3) |
 | `84-cloud-weaving.png` | Workshop, loom views, thread spools, dye pools, weaver views, floor plan | Textile crafting (Part 3) |
 | `85-beast-sanctuary.png` | Valley view, hatchery, healer pavilion, keeper views, feeding station, site plan | Beast care (Parts 2–3) |
@@ -173,6 +163,16 @@
 | `110-azure-workshops-treasury.png` | Exterior views, cutaway, floor plan, sword forge, repair room, treasury | Azure Cloud architecture (Parts 2–4) |
 | `111-azure-mission-discipline-hall.png` | Exterior, cutaway, floor plan, mission desk, hearing room, detention room | Azure Cloud architecture (Parts 2–4) |
 | `112-azure-cultivation-retreat.png` | Exterior views, cliff cutaway, floor plan, private cave, meditation hall, service room | Azure Cloud architecture (Parts 2–4) |
+| `113-azure-cloud-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `114-crimson-phoenix-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `115-iron-mountain-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `116-jade-spirit-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `117-shadow-moon-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `118-thousand-beast-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `119-heavenly-dao-sect-architecture.png` | Campus, gate views, main hall exterior and cutaway, specialty hall, residence | Seven-sect architecture (Parts 2–4) |
+| `120-azure-cloud-public-interiors.png` | Reception, missions, council, archive, treasury, dining | Seven-sect architecture (Parts 2–4) |
+| `121-azure-cloud-living-interiors.png` | Dormitory, disciple suite, elder residence, baths, infirmary, guest house | Seven-sect architecture (Parts 2–4) |
+| `122-azure-cloud-training-interiors.png` | Sword hall, meditation, alchemy, forge, formations, cultivation cave | Seven-sect architecture (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -207,11 +207,11 @@ Every part merges to `main` only after its playtest checklist passes.
 
 Style requirement: xianxia East Asian fantasy throughout all seven sects. Use sweeping tiled roofs, upturned eaves, timber brackets, lattice screens, courtyards and mountain terraces. Do not substitute Western castles or cathedrals. English-only labels; no calligraphy, seal stamps or script-like decorations. Magical markings must be abstract geometry.
 
-Batch 8 (83–92): seven campus/exterior/interior overview sheets, plus Azure Cloud public, living and training interiors. These are concept layouts, not complete construction drawings or implemented game scenes. All ten sheets visually reviewed after generation.
+Batch 11 (113–122): seven campus/exterior/interior overview sheets, plus Azure Cloud public, living and training interiors. These are concept layouts, not complete construction drawings or implemented game scenes. All ten sheets visually reviewed after generation.
 
 Remaining interior coverage is planned, not yet generated:
-- Batch 9 (93–102): Crimson Phoenix public/living/training (3), Iron Mountain public/living/training (3), Jade Spirit public/living/training (3), Azure Cloud service buildings (1).
-- Batch 10 (103–112): Shadow Moon public/living/training (3), Thousand Beast public/living/training (3), Heavenly Dao public/living/training (3), Crimson Phoenix service buildings (1).
-- Batch 11 (113–122): service interiors for Iron Mountain, Jade Spirit, Shadow Moon, Thousand Beast and Heavenly Dao (5); gatehouse/guardhouse layouts (1), kitchens/pantries (1), sanitation/laundry/utilities (1), connected floor plans (1), architectural material and modular kit comparison (1).
+- Batch 12 (123–132): Crimson Phoenix public/living/training (3), Iron Mountain public/living/training (3), Jade Spirit public/living/training (3), Azure Cloud service buildings (1).
+- Batch 13 (133–142): Shadow Moon public/living/training (3), Thousand Beast public/living/training (3), Heavenly Dao public/living/training (3), Crimson Phoenix service buildings (1).
+- Batch 14 (143–152): service interiors for Iron Mountain, Jade Spirit, Shadow Moon, Thousand Beast and Heavenly Dao (5); gatehouse/guardhouse layouts (1), kitchens/pantries (1), sanitation/laundry/utilities (1), connected floor plans (1), architectural material and modular kit comparison (1).
 
 Public interiors cover reception, missions, council, archive, treasury and dining. Living interiors cover disciple/elder/guest accommodation, baths and infirmary. Training interiors cover each sect's specialty, meditation and supporting crafting spaces. Service sheets cover storage, maintenance, staff and security rooms. Audit the building inventory and room connections after these batches before declaring all seven sect interiors complete.
