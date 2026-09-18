@@ -35,6 +35,14 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Architecture](docs/concepts/04-sect-architecture-multiview.png) | Gate, pagoda, alchemy pavilion, arena, cave |
 | [Powers & FX](docs/concepts/05-cultivation-powers-fx.png) | Qi auras, sword qi, fireball evolution, tribulation |
 | [World](docs/concepts/06-world-isometric-concept.png) | Sect valley isometric panorama |
+| [Sect Interiors](docs/concepts/07-sect-interiors.png) | Throne hall, library, alchemy chamber, cave, barracks |
+| [World Panoramas](docs/concepts/08-world-panoramas.png) | Mortal capital, beast forest, demonic ruins, immortal palace |
+| [Protagonist II](docs/concepts/09-protagonist-expansion.png) | Training, breakthrough, tribulation, elder robes, weapon variants |
+| [Enemies II](docs/concepts/10-enemies-expansion.png) | Bandit chief, rogue, demon wolf, serpent, golem, skeleton general |
+| [Sect Hierarchy](docs/concepts/11-sect-hierarchy-npcs.png) | Sect Leader → Servant Disciple, full 9-rank lineup |
+| [Realms & VFX II](docs/concepts/12-realms-vfx-expansion.png) | Aura ladder, Dao manifestation, soul avatar, domains, bloodline |
+
+*All sheets use English-only labels.*
 
 ## 📐 Docs
 - `docs/DESIGN.md` — the complete 19-part design bible (condensed)

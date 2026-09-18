@@ -57,6 +57,14 @@
 | `04-sect-architecture-multiview.png` | Gate, pagoda, pavilions, arena, caves | Sect grounds modular building kit |
 | `05-cultivation-powers-fx.png` | Qi auras, sword qi, fireball evolution, tribulation | Particle/FX library (`effects.js`) |
 | `06-world-isometric-concept.png` | Sect valley panorama, ink-wash mood | Sky, fog, lighting, terrain art direction |
+| `07-sect-interiors.png` | Throne hall, library, alchemy chamber, cave, barracks | Interior maps (Parts 2–3: throne audiences, library study, pill refining) |
+| `08-world-panoramas.png` | Mortal capital, beast forest, demonic ruins, immortal palace | World zones: kingdoms → ruins → Immortal World (Parts 2–4) |
+| `09-protagonist-expansion.png` | Training, breakthrough, tribulation, elder robes, saber/spear variants | Outfit + weapon-variant rigs, breakthrough/tribulation cinematics |
+| `10-enemies-expansion.png` | Bandit chief, rogue cultivator, demon wolf, serpent, golem, skeleton general | Wilderness/dungeon enemy roster (Parts 2–3) |
+| `11-sect-hierarchy-npcs.png` | Sect Leader → Servant, 9-rank lineup | All sect NPC castes, tournaments, war councils (Parts 2–4) |
+| `12-realms-vfx-expansion.png` | Aura ladder, Dao manifestation, sword flight, soul avatar, tribulations, domain, bloodline | Realm-scaled FX + systems (Parts 2–4) |
+
+> Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
 ## 🗂️ Repo Layout
 
