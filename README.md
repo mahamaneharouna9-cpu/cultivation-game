@@ -171,6 +171,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Heavenly Dao Living Interiors](docs/concepts/140-heavenly-dao-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
 | [Heavenly Dao Training Interiors](docs/concepts/141-heavenly-dao-training-interiors.png) | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout |
 | [Crimson Phoenix Service Interiors](docs/concepts/142-crimson-phoenix-service-interiors.png) | Storehouse, workshop, staff room, security room, laundry, service layout |
+| 143 — Iron Mountain Services (pending) | Regenerate to remove script-like storehouse sign |
+| [Jade Spirit Service Interiors](docs/concepts/144-jade-spirit-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
+| [Shadow Moon Service Interiors](docs/concepts/145-shadow-moon-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
+| [Thousand Beast Service Interiors](docs/concepts/146-thousand-beast-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
+| [Heavenly Dao Service Interiors](docs/concepts/147-heavenly-dao-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
+| [Phoenix Furnace Pavilion](docs/concepts/148-phoenix-furnace-pavilion.png) | Exterior views, cutaway, floor plan, furnace hall, herb room, cooling room |
+| [Iron Mountain Grand Forge](docs/concepts/149-iron-mountain-grand-forge.png) | Exterior views, cutaway, floor plan, forge hall, assembly room, quench room |
+| [Jade Spirit Ward Pavilion](docs/concepts/150-jade-spirit-ward-pavilion.png) | Exterior views, cutaway, floor plan, test hall, crystal studio, control room |
+| [Shadow Moon Hidden Hall](docs/concepts/151-shadow-moon-hidden-hall.png) | Exterior views, cutaway, floor plan, strategy room, disguise room, escape tunnel |
+| [Thousand Beast Sanctuary](docs/concepts/152-thousand-beast-sanctuary.png) | Exterior views, cutaway, floor plan, healing ward, nursery, bonding court |
 
 *All sheets use English-only labels.*
 

@@ -193,6 +193,16 @@
 | `140-heavenly-dao-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
 | `141-heavenly-dao-training-interiors.png` | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout | Seven-sect interior reference (Parts 2–4) |
 | `142-crimson-phoenix-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Seven-sect interior reference (Parts 2–4) |
+| 143 — Iron Mountain Services (pending) | Regenerate to remove script-like storehouse sign | Service interiors (Parts 2–4) |
+| `144-jade-spirit-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
+| `145-shadow-moon-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
+| `146-thousand-beast-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
+| `147-heavenly-dao-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
+| `148-phoenix-furnace-pavilion.png` | Exterior views, cutaway, floor plan, furnace hall, herb room, cooling room | Sect architecture and interiors (Parts 2–4) |
+| `149-iron-mountain-grand-forge.png` | Exterior views, cutaway, floor plan, forge hall, assembly room, quench room | Sect architecture and interiors (Parts 2–4) |
+| `150-jade-spirit-ward-pavilion.png` | Exterior views, cutaway, floor plan, test hall, crystal studio, control room | Sect architecture and interiors (Parts 2–4) |
+| `151-shadow-moon-hidden-hall.png` | Exterior views, cutaway, floor plan, strategy room, disguise room, escape tunnel | Sect architecture and interiors (Parts 2–4) |
+| `152-thousand-beast-sanctuary.png` | Exterior views, cutaway, floor plan, healing ward, nursery, bonding court | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -236,3 +246,11 @@ Remaining interior coverage is planned, not yet generated:
 - Batch 14 (143–152): service interiors for Iron Mountain, Jade Spirit, Shadow Moon, Thousand Beast and Heavenly Dao (5); gatehouse/guardhouse layouts (1), kitchens/pantries (1), sanitation/laundry/utilities (1), connected floor plans (1), architectural material and modular kit comparison (1).
 
 Public interiors cover reception, missions, council, archive, treasury and dining. Living interiors cover disciple/elder/guest accommodation, baths and infirmary. Training interiors cover each sect's specialty, meditation and supporting crafting spaces. Service sheets cover storage, maintenance, staff and security rooms. Audit the building inventory and room connections after these batches before declaring all seven sect interiors complete.
+
+### Seven-sect architecture direction and remaining work
+
+All seven main sects use xianxia East Asian fantasy architecture: sweeping tiled eaves, timber bracket systems, lattice screens, courtyards and mountain terraces. Labels are English only; no calligraphy, seals or script-like decorative marks.
+
+Sheets 113–142 cover all seven sect exterior overviews and public, living and training interior categories, plus Azure Cloud and Crimson Phoenix services. Sheets 144–147 add four service sets. Sheet 143 remains pending visual correction. Sheets 148–152 deepen five specialty buildings with exterior views, cutaways, floor plans and room views. These are concept references, not finalized construction plans or implemented game interiors.
+
+Next batch: repair 143 first, then continue detailed room-by-room building coverage, including Heavenly Dao specialty halls and remaining gatehouses, residences, archives and utility spaces. Do not treat category overview sheets as exhaustive coverage of every building.
