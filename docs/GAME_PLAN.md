@@ -193,7 +193,7 @@
 | `140-heavenly-dao-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
 | `141-heavenly-dao-training-interiors.png` | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout | Seven-sect interior reference (Parts 2–4) |
 | `142-crimson-phoenix-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Seven-sect interior reference (Parts 2–4) |
-| 143 — Iron Mountain Services (pending) | Regenerate to remove script-like storehouse sign | Service interiors (Parts 2–4) |
+| 143 — Iron Mountain Services (pending) | Pending: latest retry contains script-like wall plaque | Service interiors (Parts 2–4) |
 | `144-jade-spirit-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
 | `145-shadow-moon-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
 | `146-thousand-beast-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
@@ -203,6 +203,15 @@
 | `150-jade-spirit-ward-pavilion.png` | Exterior views, cutaway, floor plan, test hall, crystal studio, control room | Sect architecture and interiors (Parts 2–4) |
 | `151-shadow-moon-hidden-hall.png` | Exterior views, cutaway, floor plan, strategy room, disguise room, escape tunnel | Sect architecture and interiors (Parts 2–4) |
 | `152-thousand-beast-sanctuary.png` | Exterior views, cutaway, floor plan, healing ward, nursery, bonding court | Sect architecture and interiors (Parts 2–4) |
+| `153-heavenly-dao-harmony-hall.png` | Exterior views, cutaway, plan, meditation hall, quiet room, crystal room, gallery | Sect architecture and interiors (Parts 2–4) |
+| `154-azure-cloud-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `155-crimson-phoenix-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `156-iron-mountain-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `157-jade-spirit-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `158-shadow-moon-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `159-thousand-beast-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `160-heavenly-dao-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
+| `161-azure-cloud-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -254,3 +263,9 @@ All seven main sects use xianxia East Asian fantasy architecture: sweeping tiled
 Sheets 113–142 cover all seven sect exterior overviews and public, living and training interior categories, plus Azure Cloud and Crimson Phoenix services. Sheets 144–147 add four service sets. Sheet 143 remains pending visual correction. Sheets 148–152 deepen five specialty buildings with exterior views, cutaways, floor plans and room views. These are concept references, not finalized construction plans or implemented game interiors.
 
 Next batch: repair 143 first, then continue detailed room-by-room building coverage, including Heavenly Dao specialty halls and remaining gatehouses, residences, archives and utility spaces. Do not treat category overview sheets as exhaustive coverage of every building.
+
+### Batch 15 review and next coverage
+
+Ten generations attempted: sheet 143 retry rejected for a script-like wall plaque; nine sheets 153–161 accepted after visual review. Seven sect gatehouses now have detailed exterior and interior concept references. Heavenly Dao Harmony Hall and Azure Cloud disciple residence deepen specialty and housing coverage. Floor plans and cutaways are illustrative, not validated matching construction drawings.
+
+Next batch: repair 143 with no wall plaques or decorative emblems; six other sect disciple residences; Azure Cloud archive, kitchen/pantry and sanitation/utility building (ten sheets total). Later batches must cover sect-specific archives, kitchens, utilities, elder/guest residences and audit room connections before complete interiors can be claimed.
