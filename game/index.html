@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CULTIVATION — A Xianxia Action RPG (Part 1: Mortal Roots)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }</script>
+</head>
+<body>
+<div id="app">
+  <canvas id="scene"></canvas>
+  <div id="vignette"></div>
+  <div id="letterbox-top"></div><div id="letterbox-bot"></div>
+
+  <!-- ===== HUD ===== -->
+  <div id="hud" class="hidden">
+    <div id="hud-topleft">
+      <div id="portrait">☯</div>
+      <div id="idblock">
+        <div id="pname">—</div>
+        <div id="ptitle">Servant Disciple</div>
+        <div class="bar hp"><div id="hp-fill"></div><span id="hp-text"></span></div>
+        <div class="bar qi"><div id="qi-fill"></div><span id="qi-text"></span></div>
+        <div class="bar stam"><div id="stam-fill"></div></div>
+        <div id="realm-line">—</div>
+        <div id="life-line">—</div>
+      </div>
+    </div>
+    <div id="hud-topright">
+      <div id="clock">Day 1 · ☀ Morning</div>
+      <div id="season">🌸 Spring</div>
+      <div id="stones">💎 0 <span id="contrib"></span></div>
+      <div id="tip-line"></div>
+    </div>
+    <div id="target-bar" class="hidden"><div id="target-name"></div><div class="bar hp"><div id="target-fill"></div></div></div>
+    <div id="boss-bar" class="hidden"><div id="boss-name"></div><div class="bar boss"><div id="boss-fill"></div></div></div>
+    <div id="hotbar"></div>
+    <div id="ctrl-hint">[LMB] Strike · [Space] Dodge · [RMB] Block · [V] Lock · [F] Interact · [Z] Meditate · [H] Help</div>
+    <div id="prompt" class="hidden"><span id="prompt-key">F</span><span id="prompt-text"></span></div>
+    <div id="meditate-tag" class="hidden">🧘 MEDITATING — <span id="med-rate"></span> · move to stop</div>
+    <div id="floats"></div>
+    <div id="toasts"></div>
+    <div id="insight-flash" class="hidden"></div>
+  </div>
+
+  <!-- ===== Title ===== -->
+  <div id="title-screen">
+    <div id="title-bg"></div>
+    <div id="title-content">
+      <div id="game-logo-sub">三维水墨 · 修仙</div>
+      <h1 id="game-logo">CULTIVATION</h1>
+      <div id="game-tag">You are a mortal child, one of thousands who dream of immortality.</div>
+      <div id="title-menu">
+        <button id="btn-new" class="brush-btn">⚔ Begin New Journey</button>
+        <button id="btn-continue" class="brush-btn">📜 Continue Journey</button>
+        <button id="btn-help" class="brush-btn small">❖ How to Play</button>
+      </div>
+      <div id="title-foot">Part 1: Mortal Roots · Qi Sensing → Qi Condensation · <span id="ver">v0.1</span></div>
+    </div>
+  </div>
+
+  <!-- ===== Character creation ===== -->
+  <div id="creation" class="hidden">
+    <div class="panel narrow">
+      <h2 id="cc-title">I. Mortal Origin</h2>
+      <div id="cc-sub"></div>
+      <div id="cc-body"></div>
+      <div id="cc-nav"><button id="cc-back" class="brush-btn small">← Back</button><button id="cc-next" class="brush-btn">Next →</button></div>
+    </div>
+  </div>
+
+  <!-- ===== Dialogue ===== -->
+  <div id="dialogue" class="hidden">
+    <div id="dlg-box">
+      <div id="dlg-name">???</div>
+      <div id="dlg-text"></div>
+      <div id="dlg-choices"></div>
+      <div id="dlg-hint">click / F to continue</div>
+    </div>
+  </div>
+
+  <!-- ===== Modal ===== -->
+  <div id="modal" class="hidden"><div class="panel" id="modal-panel">
+    <div id="modal-head"><h2 id="modal-title"></h2><button id="modal-close" class="brush-btn small">✕</button></div>
+    <div id="modal-body"></div>
+  </div></div>
+
+  <!-- ===== Death ===== -->
+  <div id="death" class="hidden"><div id="death-inner">
+    <h1>Your lamp gutters…</h1><p id="death-text"></p><button id="btn-revive" class="brush-btn">An elder drags you back (Respawn)</button>
+  </div></div>
+
+  <div id="fade"></div>
+  <div id="loading" class="hidden"><div class="spin">☯</div><div>Condensing qi…</div></div>
+</div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
