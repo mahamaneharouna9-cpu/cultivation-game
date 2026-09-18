@@ -113,6 +113,16 @@
 | `60-reincarnation-lobby.png` | Ferry dock, judgment, memory well, rebirth gates, altar | NG+ reincarnation flow (Part 4) |
 | `61-dao-fruit-garden.png` | Garden view, ancient tree, mirror pool, petal path, fruit shrine, meditation terrace | Dao comprehension garden (Part 3) |
 | `62-ending-variants.png` | Submit, defy, sect eternal, bloodline continues | Ending cinematics (Part 4) |
+| `63-training-grounds.png` | Courtyard, dummy views, sword lanes, waterfall, obstacle course, arena plan | Training spaces (Part 2) |
+| `64-tournament-grounds.png` | Stadium, duel platform, waiting room, judges balcony, trophy, arena plan | Tournament venue (Part 2) |
+| `65-spirit-forge.png` | Workshop, furnace views, anvil, quenching pool, assembly bench, floor plan | Weapon crafting (Part 3) |
+| `66-healing-pavilion.png` | Ward, bedside, herb bench, recovery pool, healer turnaround, garden plan | Sect recovery spaces (Parts 2–3) |
+| `67-beast-sanctuary.png` | Habitat, stable, aviary, fox den, incubator, feeding court | Beast care (Parts 2–3) |
+| `68-spirit-farming.png` | Terraces, greenhouse, water wheel, growth stages, harvest station, field plan | Herb cultivation (Part 3) |
+| `69-mountain-expedition.png` | Cliff route, rope bridge, shelter, ice cave, expedition gear, route plan | Exploration (Part 3) |
+| `70-desert-caravan.png` | Oasis camp, skiff turnaround, pack beast, tent, waystation, caravan plan | Travel and trade (Part 3) |
+| `71-sect-construction.png` | Exploded hall, wall kit, bridge elevations, scaffolding, storage yard, settlement plan | Sect building (Part 4) |
+| `72-sect-seasons.png` | Courtyard in four seasons; gate at dawn and night | Seasonal environment studies (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

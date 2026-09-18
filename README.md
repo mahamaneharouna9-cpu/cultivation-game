@@ -91,6 +91,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Rebirth](docs/concepts/60-reincarnation-lobby.png) | Ferry, judgment, memory well, gates, altar |
 | [Dao Garden](docs/concepts/61-dao-fruit-garden.png) | Garden view, ancient tree, mirror pool, petal path, fruit shrine, meditation terrace |
 | [Endings](docs/concepts/62-ending-variants.png) | Submit, defy, sect eternal, bloodline |
+| [Training Grounds](docs/concepts/63-training-grounds.png) | Courtyard, dummy views, sword lanes, waterfall, obstacle course, arena plan |
+| [Tournament Grounds](docs/concepts/64-tournament-grounds.png) | Stadium, duel platform, waiting room, judges balcony, trophy, arena plan |
+| [Spirit Forge](docs/concepts/65-spirit-forge.png) | Workshop, furnace views, anvil, quenching pool, assembly bench, floor plan |
+| [Healing Pavilion](docs/concepts/66-healing-pavilion.png) | Ward, bedside, herb bench, recovery pool, healer turnaround, garden plan |
+| [Beast Sanctuary](docs/concepts/67-beast-sanctuary.png) | Habitat, stable, aviary, fox den, incubator, feeding court |
+| [Spirit Farming](docs/concepts/68-spirit-farming.png) | Terraces, greenhouse, water wheel, growth stages, harvest station, field plan |
+| [Mountain Expedition](docs/concepts/69-mountain-expedition.png) | Cliff route, rope bridge, shelter, ice cave, expedition gear, route plan |
+| [Desert Caravan](docs/concepts/70-desert-caravan.png) | Oasis camp, skiff turnaround, pack beast, tent, waystation, caravan plan |
+| [Sect Construction](docs/concepts/71-sect-construction.png) | Exploded hall, wall kit, bridge elevations, scaffolding, storage yard, settlement plan |
+| [Sect Seasons](docs/concepts/72-sect-seasons.png) | Courtyard in four seasons; gate at dawn and night |
 
 *All sheets use English-only labels.*
 
