@@ -13,12 +13,22 @@ All seven sects have compound overview sheets (113–119), public/living/trainin
 | Iron Mountain | 163 | 170 | 177 | 184 | 191 | 198 |
 | Jade Spirit | 164 | 171 | 178 | 185 | 192 | 199 |
 | Shadow Moon | 165 | 172 | 179 | 186 | 193 | 200 |
-| Thousand Beast | 166 | 173 | 180 | 187 | 194 pending correction | 201 |
+| Thousand Beast | 166 | 173 | 180 | 187 | 194 | 201 |
 | Heavenly Dao | 167 | 174 | 181 | 188 | 195 | 202 |
 
-Latest batch: ten generations reviewed; nine accepted (183, 195–202). Sheet 194 withheld for script-like wall decorations. All seven elder residences now have exterior, cutaway, floor-plan and furnished room references. Council halls have six accepted sheets; Thousand Beast remains pending. Earlier corrections 179, 180, 184 and 186 are present.
+Latest batch: ten generations reviewed; eight accepted (194, 203, 205–209, 211). The Thousand Beast council hall correction is complete. Guest residences now have six accepted sheets; Crimson Phoenix (204) is pending removal of script-like plaques. Azure Cloud utility hall (210) is also withheld for plaque markings. Crimson Phoenix utility hall (211) is accepted.
 
-Next ten-generation batch: repair 194, add seven guest residences (203–209), then Azure Cloud and Crimson Phoenix utility/laundry buildings (210–211). Continue remaining five utilities afterward. Complete building interior coverage remains in progress.
+| Sect | Guest residence | Utility / laundry |
+|---|---|---|
+| Azure Cloud | 203 | 210 pending correction |
+| Crimson Phoenix | 204 pending correction | 211 |
+| Iron Mountain | 205 | Planned |
+| Jade Spirit | 206 | Planned |
+| Shadow Moon | 207 | Planned |
+| Thousand Beast | 208 | Planned |
+| Heavenly Dao | 209 | Planned |
+
+Next ten-generation batch: repair 204 and 210; add five remaining utility buildings (212–216), then Azure Cloud, Crimson Phoenix and Iron Mountain treasury buildings (217–219). Complete building interior coverage remains in progress. Ban signage plaques entirely in correction prompts; preserve East Asian roof and timber forms without written ornament.
 
 Archive sheets include reading halls, secure manuals, curator offices, restoration workrooms and study courts. Floor plans and cutaways are illustrative and must be reconciled for room connections, floor count and scale before modeling.
 

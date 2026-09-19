@@ -244,7 +244,7 @@
 | `191-iron-mountain-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
 | `192-jade-spirit-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
 | `193-shadow-moon-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
-| 194 — Thousand Beast Council Hall (pending) | Regenerate: script-like wall decorations found during review | Sect architecture and interiors (Parts 2–4) |
+| `194-thousand-beast-council-hall.png` | Front and rear views, cutaway, floor plan, council, waiting room, office, strategy room, tea court | Sect architecture and interiors (Parts 2–4) |
 | `195-heavenly-dao-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect architecture and interiors (Parts 2–4) |
 | `196-azure-cloud-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 | `197-crimson-phoenix-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
@@ -253,6 +253,15 @@
 | `200-shadow-moon-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 | `201-thousand-beast-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 | `202-heavenly-dao-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `203-azure-cloud-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| 204 — Crimson Phoenix Guest Residence (pending) | Regenerate: script-like plaque markings found during review | Sect architecture (Parts 2–4) |
+| `205-iron-mountain-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| `206-jade-spirit-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| `207-shadow-moon-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| `208-thousand-beast-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| `209-heavenly-dao-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
+| 210 — Azure Cloud Utility Hall (pending) | Regenerate: script-like plaque markings found during review | Sect architecture (Parts 2–4) |
+| `211-crimson-phoenix-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Sect architecture (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
