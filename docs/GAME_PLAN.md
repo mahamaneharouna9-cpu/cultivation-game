@@ -281,12 +281,19 @@
 | `228-shadow-moon-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `229-thousand-beast-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `230-heavenly-dao-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
-| 231 — Azure Cloud Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
-| 232 — Crimson Phoenix Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
-| 233 — Iron Mountain Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
+| `231-azure-cloud-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `232-crimson-phoenix-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `233-iron-mountain-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 | `234-jade-spirit-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 | `235-shadow-moon-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 | `236-thousand-beast-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `237-heavenly-dao-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `238-azure-cloud-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| 239 — Crimson Phoenix Detention Hall (pending) | Regeneration needed: remove script-like entrance markings | Sect interiors (Parts 2–4) |
+| `240-iron-mountain-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| `241-jade-spirit-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| `242-shadow-moon-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| `243-thousand-beast-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -365,3 +372,8 @@ Supersedes earlier next-batch notes. Nine of ten generations accepted after visu
 ### Latest sect interior batch — corrections 221/224/228 and sheets 230–236
 
 Supersedes older next-batch notes. Ten generations reviewed: seven accepted, three withheld (231–233) for script-like entrance decorations. All seven detailed kitchen/dining and treasury sheets are now present. Three mission/arbitration halls accepted; four remain pending generation or correction. Continue per SECT_ARCHITECTURE.md. NPC hierarchy phase remains queued until all interior coverage is completed and audited. Floor plans remain illustrative rather than construction-validated.
+
+
+### Latest sect interior batch — mission corrections and detention halls
+
+Supersedes older next-batch notes. Nine of ten generations accepted after visual review: 231–233, 237–238, 240–243. All seven mission/arbitration halls now have detailed concepts. Detention hall 239 requires removal of script-like entrance markings; Heavenly Dao detention hall is next. See SECT_ARCHITECTURE.md for the current coverage matrix and next ten-sheet plan. Interior coverage remains in progress; floor plans and cutaways are illustrative and require spatial reconciliation before modeling. NPC hierarchy phase has not started.

@@ -260,12 +260,19 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Shadow Moon Treasury](docs/concepts/228-shadow-moon-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Thousand Beast Treasury](docs/concepts/229-thousand-beast-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Heavenly Dao Treasury](docs/concepts/230-heavenly-dao-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
-| 231 — Azure Cloud Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
-| 232 — Crimson Phoenix Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
-| 233 — Iron Mountain Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
+| [Azure Cloud Mission Hall](docs/concepts/231-azure-cloud-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Crimson Phoenix Mission Hall](docs/concepts/232-crimson-phoenix-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Iron Mountain Mission Hall](docs/concepts/233-iron-mountain-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 | [Jade Spirit Mission Hall](docs/concepts/234-jade-spirit-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 | [Shadow Moon Mission Hall](docs/concepts/235-shadow-moon-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 | [Thousand Beast Mission Hall](docs/concepts/236-thousand-beast-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Heavenly Dao Mission Hall](docs/concepts/237-heavenly-dao-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Azure Cloud Detention Hall](docs/concepts/238-azure-cloud-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
+| 239 — Crimson Phoenix Detention Hall (pending) | Regeneration needed: remove script-like entrance markings |
+| [Iron Mountain Detention Hall](docs/concepts/240-iron-mountain-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
+| [Jade Spirit Detention Hall](docs/concepts/241-jade-spirit-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
+| [Shadow Moon Detention Hall](docs/concepts/242-shadow-moon-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
+| [Thousand Beast Detention Hall](docs/concepts/243-thousand-beast-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 
 *All sheets use English-only labels.*
 
