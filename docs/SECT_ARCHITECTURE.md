@@ -18,19 +18,19 @@ All seven sects have compound overview sheets (113–119), public/living/trainin
 
 ## Latest reviewed coverage (supersedes older batch notes)
 
-Latest batch: ten generations reviewed; nine accepted (231–233, 237–238, 240–243). Mission-hall corrections are complete and all seven mission/arbitration halls are now present. Crimson Phoenix detention hall 239 was withheld for script-like entrance markings. All seven guest residences, utility buildings, detailed kitchens and treasuries remain present.
+Latest batch: ten generations reviewed; six accepted (239, 244, 246–248, 252). Crimson Phoenix detention correction passed, and Heavenly Dao detention is complete. All seven sects now have detailed detention concepts. Four ancestral halls (245, 249–251) were withheld for script-like decoration. Cultivation retreats are underway.
 
-| Sect | Guest residence | Utility / laundry | Kitchen / dining detail | Treasury detail | Mission / arbitration | Detention |
-|---|---|---|---|---|---|---|---|
-| Azure Cloud | 203 | 210 | 217 | 224 | 231 | 238 |
-| Crimson Phoenix | 204 | 211 | 218 | 225 | 232 | 239 pending correction |
-| Iron Mountain | 205 | 212 | 219 | 226 | 233 | 240 |
-| Jade Spirit | 206 | 213 | 220 | 227 | 234 | 241 |
-| Shadow Moon | 207 | 214 | 221 | 228 | 235 | 242 |
-| Thousand Beast | 208 | 215 | 222 | 229 | 236 | 243 |
-| Heavenly Dao | 209 | 216 | 223 | 230 | 237 | Planned 244 |
+| Sect | Guest | Utility | Kitchen | Treasury | Mission | Detention | Ancestral hall | Retreat |
+|---|---|---|---|---|---|---|---|---|---|
+| Azure Cloud | 203 | 210 | 217 | 224 | 231 | 238 | 245 pending correction | 252 |
+| Crimson Phoenix | 204 | 211 | 218 | 225 | 232 | 239 | 246 | Planned 253 |
+| Iron Mountain | 205 | 212 | 219 | 226 | 233 | 240 | 247 | Planned 254 |
+| Jade Spirit | 206 | 213 | 220 | 227 | 234 | 241 | 248 | Planned 255 |
+| Shadow Moon | 207 | 214 | 221 | 228 | 235 | 242 | 249 pending correction | Planned 256 |
+| Thousand Beast | 208 | 215 | 222 | 229 | 236 | 243 | 250 pending correction | Planned 257 |
+| Heavenly Dao | 209 | 216 | 223 | 230 | 237 | 244 | 251 pending correction | Planned 258 |
 
-Next ten-generation batch: correct 239 with no entrance plaque; Heavenly Dao detention hall (244); seven ancestral halls (245–251, Azure Cloud through Heavenly Dao); Azure Cloud cultivation retreat (252). Then six remaining sect retreats and a room-by-room coverage audit to identify any uncovered building functions. Do not regenerate accepted buildings unnecessarily. NPC hierarchies remain queued until interior coverage is complete.
+Next ten-generation batch: correct ancestral halls 245, 249–251; six remaining cultivation retreats (253–258, Crimson Phoenix through Heavenly Dao). Corrections must use completely bare walls, beams and door lintels: no plaques, decorative vertical bands, inscriptions, tablets or ornamental glyphs. Follow with a room-by-room audit of all ten functional categories below, identifying any gaps before starting NPC hierarchies. Do not regenerate accepted buildings unnecessarily.
 
 Complete interior coverage remains in progress. Retain East Asian Xianxia architecture, not Western castles or cathedrals. Ban signage plaques entirely and avoid written ornament on display cases, balcony rails and vaults. Spatial consistency between plans and cutaways needs validation before modeling.
 

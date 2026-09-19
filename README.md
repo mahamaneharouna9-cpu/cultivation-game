@@ -268,11 +268,20 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Thousand Beast Mission Hall](docs/concepts/236-thousand-beast-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 | [Heavenly Dao Mission Hall](docs/concepts/237-heavenly-dao-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 | [Azure Cloud Detention Hall](docs/concepts/238-azure-cloud-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
-| 239 — Crimson Phoenix Detention Hall (pending) | Regeneration needed: remove script-like entrance markings |
+| [Crimson Phoenix Detention Hall](docs/concepts/239-crimson-phoenix-detention-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Iron Mountain Detention Hall](docs/concepts/240-iron-mountain-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Jade Spirit Detention Hall](docs/concepts/241-jade-spirit-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Shadow Moon Detention Hall](docs/concepts/242-shadow-moon-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Thousand Beast Detention Hall](docs/concepts/243-thousand-beast-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
+| [Heavenly Dao Detention Hall](docs/concepts/244-heavenly-dao-detention-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court |
+| 245 — Azure Cloud Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| [Crimson Phoenix Ancestral Hall](docs/concepts/246-crimson-phoenix-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
+| [Iron Mountain Ancestral Hall](docs/concepts/247-iron-mountain-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
+| [Jade Spirit Ancestral Hall](docs/concepts/248-jade-spirit-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
+| 249 — Shadow Moon Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| 250 — Thousand Beast Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| 251 — Heavenly Dao Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| [Azure Cloud Cultivation Retreat](docs/concepts/252-azure-cloud-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
 
 *All sheets use English-only labels.*
 

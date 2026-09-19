@@ -289,11 +289,20 @@
 | `236-thousand-beast-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 | `237-heavenly-dao-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 | `238-azure-cloud-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
-| 239 — Crimson Phoenix Detention Hall (pending) | Regeneration needed: remove script-like entrance markings | Sect interiors (Parts 2–4) |
+| `239-crimson-phoenix-detention-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `240-iron-mountain-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `241-jade-spirit-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `242-shadow-moon-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `243-thousand-beast-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| `244-heavenly-dao-detention-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
+| 245 — Azure Cloud Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| `246-crimson-phoenix-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
+| `247-iron-mountain-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
+| `248-jade-spirit-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
+| 249 — Shadow Moon Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| 250 — Thousand Beast Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| 251 — Heavenly Dao Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| `252-azure-cloud-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -377,3 +386,8 @@ Supersedes older next-batch notes. Ten generations reviewed: seven accepted, thr
 ### Latest sect interior batch — mission corrections and detention halls
 
 Supersedes older next-batch notes. Nine of ten generations accepted after visual review: 231–233, 237–238, 240–243. All seven mission/arbitration halls now have detailed concepts. Detention hall 239 requires removal of script-like entrance markings; Heavenly Dao detention hall is next. See SECT_ARCHITECTURE.md for the current coverage matrix and next ten-sheet plan. Interior coverage remains in progress; floor plans and cutaways are illustrative and require spatial reconciliation before modeling. NPC hierarchy phase has not started.
+
+
+### Latest sect interior batch — detention completion, ancestral halls and retreat
+
+Supersedes older next-batch notes. Six of ten generations accepted after visual review: 239, 244, 246–248, 252. Detention concepts cover all seven sects. Three ancestral halls and Azure Cloud retreat accepted; four ancestral halls (245, 249–251) withheld for script-like decorations. Next: those four corrections plus six remaining retreats. See SECT_ARCHITECTURE.md for the current matrix. Audit all interior functions before starting NPC hierarchies. Plans remain illustrative, not dimensionally validated.
