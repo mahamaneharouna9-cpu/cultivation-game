@@ -2,15 +2,25 @@
 
 Ten multiview sheets per sect, including exterior studies, furnished cutaways, floor plans and room interiors. English-only labels; no script decorations. Concept layouts are visual references, not dimensionally validated construction plans.
 
-| Sect | Sheets | Status | Identity |
-|---|---|---|---|
-| Azure Cloud | 103–112 | Generated and visually reviewed | Sword cultivation; white stone, blue roofs, silver trim |
-| Crimson Phoenix | 113–122 | Planned next | Fire arts and alchemy; crimson, bronze, volcanic stone |
-| Iron Mountain | 123–132 | Planned | Body cultivation; fortress stone and iron |
-| Jade Spirit | 133–142 | Planned | Formations and talismans; jade, scholarly courts, abstract geometry |
-| Shadow Moon | 143–152 | Planned | Stealth and dark arts; indigo, silver, concealed circulation |
-| Thousand Beast | 153–162 | Planned | Beast taming; timber, living trees, habitats |
-| Heavenly Dao | 163–172 | Planned | Elite all-rounder; ivory, gold, celestial terraces |
+## Current coverage
+
+All seven sects have compound overview sheets (113–119), public/living/training interior surveys (120–141), service interiors (132, 142–147), and detailed gatehouses (154–160). Azure Cloud also has the earlier detailed studies (103–112).
+
+| Sect | Detailed disciple residence | Detailed dining hall |
+|---|---|---|
+| Azure Cloud | 161 | 168 |
+| Crimson Phoenix | 162 | 169 |
+| Iron Mountain | 163 | 170 pending signage fix |
+| Jade Spirit | 164 | Planned |
+| Shadow Moon | 165 pending signage fix | Planned |
+| Thousand Beast | 166 | Planned |
+| Heavenly Dao | 167 | Planned |
+
+The latest batch generated ten images: eight accepted, two withheld for script-like signage. Sheet 143 now passes the visual text check. Next: repair 165 and 170, then finish the remaining four dining halls and expand other buildings room by room. Interior surveys do not mean every building has a complete detailed design yet.
+
+## Architectural direction
+
+Use xianxia East Asian fantasy architecture throughout: sweeping tiled roofs, timber bracket construction, raised stone terraces, lattice screens, moon gates and courtyards. Retain each sect's palette and specialty. No Western castle or cathedral substitutions. English-only labels; no calligraphy, seal stamps or script-like ornament anywhere.
 
 ## Coverage per sect
 1. Campus, circulation and gatehouse interiors.

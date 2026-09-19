@@ -171,7 +171,7 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Heavenly Dao Living Interiors](docs/concepts/140-heavenly-dao-living-interiors.png) | Disciple room, elder suite, guest room, baths, infirmary, residential layout |
 | [Heavenly Dao Training Interiors](docs/concepts/141-heavenly-dao-training-interiors.png) | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout |
 | [Crimson Phoenix Service Interiors](docs/concepts/142-crimson-phoenix-service-interiors.png) | Storehouse, workshop, staff room, security room, laundry, service layout |
-| 143 — Iron Mountain Services (pending) | Pending: latest retry contains script-like wall plaque |
+| [Iron Mountain Service Interiors](docs/concepts/143-iron-mountain-service-interiors.png) | Storehouse, workshop, kitchen, guard room, laundry, cutaway |
 | [Jade Spirit Service Interiors](docs/concepts/144-jade-spirit-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
 | [Shadow Moon Service Interiors](docs/concepts/145-shadow-moon-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
 | [Thousand Beast Service Interiors](docs/concepts/146-thousand-beast-service-interiors.png) | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway |
@@ -190,6 +190,15 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Thousand Beast Gatehouse](docs/concepts/159-thousand-beast-gatehouse.png) | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room |
 | [Heavenly Dao Gatehouse](docs/concepts/160-heavenly-dao-gatehouse.png) | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room |
 | [Azure Cloud Disciple Residence](docs/concepts/161-azure-cloud-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| [Crimson Phoenix Disciple Residence](docs/concepts/162-crimson-phoenix-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| [Iron Mountain Disciple Residence](docs/concepts/163-iron-mountain-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| [Jade Spirit Disciple Residence](docs/concepts/164-jade-spirit-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| 165 — Shadow Moon Disciple Residence (pending) | Pending regeneration: remove script-like exterior signage |
+| [Thousand Beast Disciple Residence](docs/concepts/166-thousand-beast-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| [Heavenly Dao Disciple Residence](docs/concepts/167-heavenly-dao-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
+| [Azure Cloud Dining Hall](docs/concepts/168-azure-cloud-dining-hall.png) | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court |
+| [Crimson Phoenix Dining Hall](docs/concepts/169-crimson-phoenix-dining-hall.png) | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court |
+| 170 — Iron Mountain Dining Hall (pending) | Pending regeneration: remove script-like exterior signage |
 
 *All sheets use English-only labels.*
 

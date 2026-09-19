@@ -193,7 +193,7 @@
 | `140-heavenly-dao-living-interiors.png` | Disciple room, elder suite, guest room, baths, infirmary, residential layout | Seven-sect interior reference (Parts 2–4) |
 | `141-heavenly-dao-training-interiors.png` | Sword arena, meditation hall, Dao chamber, element hall, breakthrough room, training layout | Seven-sect interior reference (Parts 2–4) |
 | `142-crimson-phoenix-service-interiors.png` | Storehouse, workshop, staff room, security room, laundry, service layout | Seven-sect interior reference (Parts 2–4) |
-| 143 — Iron Mountain Services (pending) | Pending: latest retry contains script-like wall plaque | Service interiors (Parts 2–4) |
+| `143-iron-mountain-service-interiors.png` | Storehouse, workshop, kitchen, guard room, laundry, cutaway | Service interiors (Parts 2–4) |
 | `144-jade-spirit-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
 | `145-shadow-moon-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
 | `146-thousand-beast-service-interiors.png` | Storehouse, repair room, staff kitchen, guard room, laundry, cutaway | Sect architecture and interiors (Parts 2–4) |
@@ -212,6 +212,15 @@
 | `159-thousand-beast-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
 | `160-heavenly-dao-gatehouse.png` | Exterior views, cutaway, plan, entry, guard room, inspection room, watch room | Sect architecture and interiors (Parts 2–4) |
 | `161-azure-cloud-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| `162-crimson-phoenix-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| `163-iron-mountain-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| `164-jade-spirit-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| 165 — Shadow Moon Disciple Residence (pending) | Pending regeneration: remove script-like exterior signage | Sect architecture and interiors (Parts 2–4) |
+| `166-thousand-beast-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| `167-heavenly-dao-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
+| `168-azure-cloud-dining-hall.png` | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `169-crimson-phoenix-dining-hall.png` | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| 170 — Iron Mountain Dining Hall (pending) | Pending regeneration: remove script-like exterior signage | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
