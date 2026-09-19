@@ -249,6 +249,17 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Kitchen and Dining](docs/concepts/218-crimson-phoenix-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 | [Iron Mountain Kitchen and Dining](docs/concepts/219-iron-mountain-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 
+| [Jade Spirit Kitchen Dining](docs/concepts/220-jade-spirit-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
+| 221 — Shadow Moon Kitchen Dining (pending) | Regeneration needed: remove script-like markings |
+| [Thousand Beast Kitchen Dining](docs/concepts/222-thousand-beast-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
+| [Heavenly Dao Kitchen Dining](docs/concepts/223-heavenly-dao-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
+| 224 — Azure Cloud Treasury (pending) | Regeneration needed: remove script-like markings |
+| [Crimson Phoenix Treasury](docs/concepts/225-crimson-phoenix-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+| [Iron Mountain Treasury](docs/concepts/226-iron-mountain-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+| [Jade Spirit Treasury](docs/concepts/227-jade-spirit-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+| 228 — Shadow Moon Treasury (pending) | Regeneration needed: remove script-like markings |
+| [Thousand Beast Treasury](docs/concepts/229-thousand-beast-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+
 *All sheets use English-only labels.*
 
 ## 📐 Docs

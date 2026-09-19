@@ -270,6 +270,16 @@
 | `217-azure-cloud-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
 | `218-crimson-phoenix-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
 | `219-iron-mountain-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
+| `220-jade-spirit-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
+| 221 — Shadow Moon Kitchen Dining (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `222-thousand-beast-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
+| `223-heavenly-dao-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
+| 224 — Azure Cloud Treasury (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `225-crimson-phoenix-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
+| `226-iron-mountain-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
+| `227-jade-spirit-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
+| 228 — Shadow Moon Treasury (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `229-thousand-beast-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
