@@ -229,6 +229,16 @@
 | `176-crimson-phoenix-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
 | `177-iron-mountain-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
 | `178-jade-spirit-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
+| 179 — Shadow Moon Infirmary (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| 180 — Thousand Beast Infirmary (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| `181-heavenly-dao-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
+| `182-azure-cloud-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
+| 183 — Crimson Phoenix Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| 184 — Iron Mountain Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| `185-jade-spirit-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
+| 186 — Shadow Moon Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| `187-thousand-beast-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
+| `188-heavenly-dao-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -290,3 +300,7 @@ Next batch: repair 143 with no wall plaques or decorative emblems; six other sec
 ### Latest sect interior batch — sheets 165, 170–178
 
 Supersedes the older next-batch notes above. Corrected the two pending signage sheets (165, 170), completed all seven dining halls, and added the first four infirmaries. All ten images were visually reviewed. See `SECT_ARCHITECTURE.md` for current coverage and the next ten-sheet plan. Complete building coverage remains in progress; generated floor plans require spatial reconciliation before modeling.
+
+### Latest sect interior batch — sheets 179–188
+
+Supersedes earlier next-batch notes. Ten generations visually reviewed; five accepted (181, 182, 185, 187, 188), five withheld for script-like decorations (179, 180, 183, 184, 186). Xianxia East Asian architecture retained throughout. Repair the five pending sheets before completing this batch. See `SECT_ARCHITECTURE.md` for the current coverage matrix and next ten-generation plan. Complete interior coverage and spatial validation remain unfinished.

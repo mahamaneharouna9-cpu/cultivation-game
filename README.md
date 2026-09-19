@@ -207,6 +207,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Infirmary](docs/concepts/176-crimson-phoenix-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
 | [Iron Mountain Infirmary](docs/concepts/177-iron-mountain-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
 | [Jade Spirit Infirmary](docs/concepts/178-jade-spirit-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
+| 179 — Shadow Moon Infirmary (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| 180 — Thousand Beast Infirmary (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| [Heavenly Dao Infirmary](docs/concepts/181-heavenly-dao-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
+| [Azure Cloud Archive](docs/concepts/182-azure-cloud-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
+| 183 — Crimson Phoenix Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| 184 — Iron Mountain Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| [Jade Spirit Archive](docs/concepts/185-jade-spirit-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
+| 186 — Shadow Moon Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| [Thousand Beast Archive](docs/concepts/187-thousand-beast-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
+| [Heavenly Dao Archive](docs/concepts/188-heavenly-dao-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
 
 *All sheets use English-only labels.*
 
