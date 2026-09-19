@@ -233,7 +233,7 @@
 | `180-thousand-beast-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
 | `181-heavenly-dao-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
 | `182-azure-cloud-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
-| 183 — Crimson Phoenix Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings | Sect architecture and interiors (Parts 2–4) |
+| `183-crimson-phoenix-archive.png` | Front and rear views, cutaway, floor plan, reading hall, vault, office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
 | `184-iron-mountain-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
 | `185-jade-spirit-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
 | `186-shadow-moon-archive.png` | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court | Sect architecture and interiors (Parts 2–4) |
@@ -244,6 +244,15 @@
 | `191-iron-mountain-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
 | `192-jade-spirit-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
 | `193-shadow-moon-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect governance interiors (Parts 2–4) |
+| 194 — Thousand Beast Council Hall (pending) | Regenerate: script-like wall decorations found during review | Sect architecture and interiors (Parts 2–4) |
+| `195-heavenly-dao-council-hall.png` | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court | Sect architecture and interiors (Parts 2–4) |
+| `196-azure-cloud-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `197-crimson-phoenix-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `198-iron-mountain-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `199-jade-spirit-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `200-shadow-moon-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `201-thousand-beast-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
+| `202-heavenly-dao-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -313,3 +322,7 @@ Supersedes earlier next-batch notes. Ten generations visually reviewed; five acc
 ### Next sect architecture batch
 
 Continue Xianxia / East Asian fantasy architecture: sweeping tiled roofs, timber brackets, lattice screens and courtyards. English labels only; no script-like decorations. Regenerate sheet 183 without any entrance plaque. Next add Thousand Beast and Heavenly Dao council halls to complete all seven, then continue detailed building interiors. Sheets are visual concepts, not construction-accurate plans; reconcile room layouts during modeling.
+
+### Latest architecture review — sheets 183 and 194–202
+
+Supersedes earlier next-batch notes. Nine of ten generations accepted after visual review. Archive 183 corrected; council hall 195 added; elder residences 196–202 cover all seven sects. Council hall 194 withheld for script-like wall decorations and needs regeneration. See SECT_ARCHITECTURE.md for updated coverage and the next ten-generation plan. Complete interiors and spatial validation remain in progress.

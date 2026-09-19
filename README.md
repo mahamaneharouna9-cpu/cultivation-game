@@ -211,7 +211,7 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Thousand Beast Infirmary](docs/concepts/180-thousand-beast-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
 | [Heavenly Dao Infirmary](docs/concepts/181-heavenly-dao-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
 | [Azure Cloud Archive](docs/concepts/182-azure-cloud-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
-| 183 — Crimson Phoenix Archive (pending) | Pending regeneration: remove script-like plaques or decorative markings |
+| [Crimson Phoenix Archive](docs/concepts/183-crimson-phoenix-archive.png) | Front and rear views, cutaway, floor plan, reading hall, vault, office, restoration room, study court |
 | [Iron Mountain Archive](docs/concepts/184-iron-mountain-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
 | [Jade Spirit Archive](docs/concepts/185-jade-spirit-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
 | [Shadow Moon Archive](docs/concepts/186-shadow-moon-archive.png) | Exterior views, cutaway, floor plan, reading hall, manual vault, curator office, restoration room, study court |
@@ -222,6 +222,15 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Iron Mountain Council Hall](docs/concepts/191-iron-mountain-council-hall.png) | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court |
 | [Jade Spirit Council Hall](docs/concepts/192-jade-spirit-council-hall.png) | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court |
 | [Shadow Moon Council Hall](docs/concepts/193-shadow-moon-council-hall.png) | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court |
+| 194 — Thousand Beast Council Hall (pending) | Regenerate: script-like wall decorations found during review |
+| [Heavenly Dao Council Hall](docs/concepts/195-heavenly-dao-council-hall.png) | Front and rear views, cutaway, floor plan, council chamber, waiting room, leader office, strategy room, tea court |
+| [Azure Cloud Elder Residence](docs/concepts/196-azure-cloud-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Crimson Phoenix Elder Residence](docs/concepts/197-crimson-phoenix-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Iron Mountain Elder Residence](docs/concepts/198-iron-mountain-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Jade Spirit Elder Residence](docs/concepts/199-jade-spirit-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Shadow Moon Elder Residence](docs/concepts/200-shadow-moon-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Thousand Beast Elder Residence](docs/concepts/201-thousand-beast-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
+| [Heavenly Dao Elder Residence](docs/concepts/202-heavenly-dao-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
 
 *All sheets use English-only labels.*
 
