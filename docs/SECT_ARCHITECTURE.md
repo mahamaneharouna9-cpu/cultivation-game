@@ -18,19 +18,19 @@ All seven sects have compound overview sheets (113–119), public/living/trainin
 
 ## Latest reviewed coverage (supersedes older batch notes)
 
-Sheets 204 and 210 were corrected in the preceding batch; all seven guest residences and utility buildings are now present. This batch attempted 220–229: seven accepted after visual review; 221, 224 and 228 withheld for script-like markings. These three images are not part of the accepted collection.
+Sheets 204 and 210 were corrected previously; all seven guest residences and utility buildings are present. Latest batch: ten generations reviewed, seven accepted (221, 224, 228, 230, 234–236). The three older corrections are complete. New mission halls 231–233 were withheld for script-like entrance decorations.
 
-| Sect | Guest residence | Utility / laundry | Kitchen / dining detail | Treasury detail |
-|---|---|---|---|---|
-| Azure Cloud | 203 | 210 | 217 | 224 pending correction |
-| Crimson Phoenix | 204 | 211 | 218 | 225 |
-| Iron Mountain | 205 | 212 | 219 | 226 |
-| Jade Spirit | 206 | 213 | 220 | 227 |
-| Shadow Moon | 207 | 214 | 221 pending correction | 228 pending correction |
-| Thousand Beast | 208 | 215 | 222 | 229 |
-| Heavenly Dao | 209 | 216 | 223 | Planned 230 |
+| Sect | Guest residence | Utility / laundry | Kitchen / dining detail | Treasury detail | Mission / arbitration |
+|---|---|---|---|---|---|
+| Azure Cloud | 203 | 210 | 217 | 224 | 231 pending correction |
+| Crimson Phoenix | 204 | 211 | 218 | 225 | 232 pending correction |
+| Iron Mountain | 205 | 212 | 219 | 226 | 233 pending correction |
+| Jade Spirit | 206 | 213 | 220 | 227 | 234 |
+| Shadow Moon | 207 | 214 | 221 | 228 | 235 |
+| Thousand Beast | 208 | 215 | 222 | 229 | 236 |
+| Heavenly Dao | 209 | 216 | 223 | 230 | Planned 237 |
 
-Next ten-generation batch: correct 221, 224 and 228; Heavenly Dao treasury (230); six detailed mission/arbitration buildings (231–236, Azure Cloud through Thousand Beast). Then Heavenly Dao mission/arbitration, remaining detention, ancestral and retreat interiors, and a room-by-room coverage audit. Do not regenerate already accepted buildings unnecessarily.
+Next ten-generation batch: correct 231–233 using plain unadorned entrance beams with no mounted plaques; Heavenly Dao mission/arbitration hall (237); six detention buildings (238–243, Azure Cloud through Thousand Beast). Then Heavenly Dao detention, remaining ancestral and retreat interiors, and a room-by-room coverage audit. Do not regenerate accepted buildings unnecessarily.
 
 Complete interior coverage remains in progress. Retain East Asian Xianxia architecture, not Western castles or cathedrals. Ban signage plaques entirely and avoid written ornament on display cases, balcony rails and vaults. Spatial consistency between plans and cutaways needs validation before modeling.
 

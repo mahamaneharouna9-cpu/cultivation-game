@@ -250,15 +250,22 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Iron Mountain Kitchen and Dining](docs/concepts/219-iron-mountain-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 
 | [Jade Spirit Kitchen Dining](docs/concepts/220-jade-spirit-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
-| 221 — Shadow Moon Kitchen Dining (pending) | Regeneration needed: remove script-like markings |
+| [Shadow Moon Kitchen Dining](docs/concepts/221-shadow-moon-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 | [Thousand Beast Kitchen Dining](docs/concepts/222-thousand-beast-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 | [Heavenly Dao Kitchen Dining](docs/concepts/223-heavenly-dao-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
-| 224 — Azure Cloud Treasury (pending) | Regeneration needed: remove script-like markings |
+| [Azure Cloud Treasury](docs/concepts/224-azure-cloud-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Crimson Phoenix Treasury](docs/concepts/225-crimson-phoenix-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Iron Mountain Treasury](docs/concepts/226-iron-mountain-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Jade Spirit Treasury](docs/concepts/227-jade-spirit-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
-| 228 — Shadow Moon Treasury (pending) | Regeneration needed: remove script-like markings |
+| [Shadow Moon Treasury](docs/concepts/228-shadow-moon-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
 | [Thousand Beast Treasury](docs/concepts/229-thousand-beast-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+| [Heavenly Dao Treasury](docs/concepts/230-heavenly-dao-treasury.png) | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room |
+| 231 — Azure Cloud Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
+| 232 — Crimson Phoenix Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
+| 233 — Iron Mountain Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations |
+| [Jade Spirit Mission Hall](docs/concepts/234-jade-spirit-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Shadow Moon Mission Hall](docs/concepts/235-shadow-moon-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
+| [Thousand Beast Mission Hall](docs/concepts/236-thousand-beast-mission-hall.png) | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court |
 
 *All sheets use English-only labels.*
 

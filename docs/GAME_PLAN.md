@@ -271,15 +271,22 @@
 | `218-crimson-phoenix-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
 | `219-iron-mountain-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
 | `220-jade-spirit-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
-| 221 — Shadow Moon Kitchen Dining (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `221-shadow-moon-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
 | `222-thousand-beast-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
 | `223-heavenly-dao-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Sect interiors (Parts 2–4) |
-| 224 — Azure Cloud Treasury (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `224-azure-cloud-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `225-crimson-phoenix-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `226-iron-mountain-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `227-jade-spirit-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
-| 228 — Shadow Moon Treasury (pending) | Regeneration needed: remove script-like markings | Sect interiors (Parts 2–4) |
+| `228-shadow-moon-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
 | `229-thousand-beast-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
+| `230-heavenly-dao-treasury.png` | Exterior views, furnished cutaway, floor plan, reception, stone vault, artifact chamber, inspection room, guard room | Sect interiors (Parts 2–4) |
+| 231 — Azure Cloud Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
+| 232 — Crimson Phoenix Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
+| 233 — Iron Mountain Mission Hall (pending) | Regeneration needed: remove script-like entrance decorations | Sect interiors (Parts 2–4) |
+| `234-jade-spirit-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `235-shadow-moon-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
+| `236-thousand-beast-mission-hall.png` | Exterior views, furnished cutaway, floor plan, reception, briefing room, arbitration, reward store, waiting court | Sect interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -353,3 +360,8 @@ Continue Xianxia / East Asian fantasy architecture: sweeping tiled roofs, timber
 ### Latest architecture review — sheets 183 and 194–202
 
 Supersedes earlier next-batch notes. Nine of ten generations accepted after visual review. Archive 183 corrected; council hall 195 added; elder residences 196–202 cover all seven sects. Council hall 194 withheld for script-like wall decorations and needs regeneration. See SECT_ARCHITECTURE.md for updated coverage and the next ten-generation plan. Complete interiors and spatial validation remain in progress.
+
+
+### Latest sect interior batch — corrections 221/224/228 and sheets 230–236
+
+Supersedes older next-batch notes. Ten generations reviewed: seven accepted, three withheld (231–233) for script-like entrance decorations. All seven detailed kitchen/dining and treasury sheets are now present. Three mission/arbitration halls accepted; four remain pending generation or correction. Continue per SECT_ARCHITECTURE.md. NPC hierarchy phase remains queued until all interior coverage is completed and audited. Floor plans remain illustrative rather than construction-validated.
