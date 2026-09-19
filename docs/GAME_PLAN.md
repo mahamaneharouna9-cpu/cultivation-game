@@ -254,14 +254,22 @@
 | `201-thousand-beast-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 | `202-heavenly-dao-elder-residence.png` | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden | Sect architecture and interiors (Parts 2–4) |
 | `203-azure-cloud-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
-| 204 — Crimson Phoenix Guest Residence (pending) | Regenerate: script-like plaque markings found during review | Sect architecture (Parts 2–4) |
+| `204-crimson-phoenix-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Seven-sect architecture and interiors (Parts 2–4) |
 | `205-iron-mountain-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
 | `206-jade-spirit-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
 | `207-shadow-moon-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
 | `208-thousand-beast-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
 | `209-heavenly-dao-guest-residence.png` | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard | Sect architecture (Parts 2–4) |
-| 210 — Azure Cloud Utility Hall (pending) | Regenerate: script-like plaque markings found during review | Sect architecture (Parts 2–4) |
+| `210-azure-cloud-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
 | `211-crimson-phoenix-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Sect architecture (Parts 2–4) |
+| `212-iron-mountain-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
+| `213-jade-spirit-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
+| `214-shadow-moon-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
+| `215-thousand-beast-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
+| `216-heavenly-dao-utility-building.png` | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court | Seven-sect architecture and interiors (Parts 2–4) |
+| `217-azure-cloud-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
+| `218-crimson-phoenix-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
+| `219-iron-mountain-kitchen-dining.png` | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court | Seven-sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 

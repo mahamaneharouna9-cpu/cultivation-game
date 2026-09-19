@@ -232,14 +232,22 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Thousand Beast Elder Residence](docs/concepts/201-thousand-beast-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
 | [Heavenly Dao Elder Residence](docs/concepts/202-heavenly-dao-elder-residence.png) | Front and rear views, cutaway, floor plan, reception, bedchamber, meditation room, bathing room, tea garden |
 | [Azure Cloud Guest Residence](docs/concepts/203-azure-cloud-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
-| 204 — Crimson Phoenix Guest Residence (pending) | Regenerate: script-like plaque markings found during review |
+| [Crimson Phoenix Guest Residence](docs/concepts/204-crimson-phoenix-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
 | [Iron Mountain Guest Residence](docs/concepts/205-iron-mountain-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
 | [Jade Spirit Guest Residence](docs/concepts/206-jade-spirit-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
 | [Shadow Moon Guest Residence](docs/concepts/207-shadow-moon-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
 | [Thousand Beast Guest Residence](docs/concepts/208-thousand-beast-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
 | [Heavenly Dao Guest Residence](docs/concepts/209-heavenly-dao-guest-residence.png) | Front and rear views, furnished cutaway, floor plan, reception, bedroom, bath, tea lounge, courtyard |
-| 210 — Azure Cloud Utility Hall (pending) | Regenerate: script-like plaque markings found during review |
+| [Azure Cloud Utility Hall](docs/concepts/210-azure-cloud-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
 | [Crimson Phoenix Utility Hall](docs/concepts/211-crimson-phoenix-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Iron Mountain Utility Hall](docs/concepts/212-iron-mountain-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Jade Spirit Utility Hall](docs/concepts/213-jade-spirit-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Shadow Moon Utility Hall](docs/concepts/214-shadow-moon-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Thousand Beast Utility Hall](docs/concepts/215-thousand-beast-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Heavenly Dao Utility Hall](docs/concepts/216-heavenly-dao-utility-building.png) | Front and rear views, furnished cutaway, floor plan, wash room, drying room, linen store, staff room, service court |
+| [Azure Cloud Kitchen and Dining](docs/concepts/217-azure-cloud-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
+| [Crimson Phoenix Kitchen and Dining](docs/concepts/218-crimson-phoenix-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
+| [Iron Mountain Kitchen and Dining](docs/concepts/219-iron-mountain-kitchen-dining.png) | Front and rear views, furnished cutaway, floor plan, kitchen, dining hall, pantry, tea room, delivery court |
 
 *All sheets use English-only labels.*
 
