@@ -18,19 +18,38 @@ All seven sects have compound overview sheets (113–119), public/living/trainin
 
 ## Latest reviewed coverage (supersedes older batch notes)
 
-Latest batch: ten generations reviewed; six accepted (239, 244, 246–248, 252). Crimson Phoenix detention correction passed, and Heavenly Dao detention is complete. All seven sects now have detailed detention concepts. Four ancestral halls (245, 249–251) were withheld for script-like decoration. Cultivation retreats are underway.
+Latest batch: ten generations reviewed; nine accepted (249–251, 253–258). All seven cultivation retreats now have detailed concepts. Six ancestral halls are accepted. Azure Cloud ancestral hall 245 remains withheld because small framed script-like decorations appeared in its offering/preparation rooms.
 
 | Sect | Guest | Utility | Kitchen | Treasury | Mission | Detention | Ancestral hall | Retreat |
 |---|---|---|---|---|---|---|---|---|---|
 | Azure Cloud | 203 | 210 | 217 | 224 | 231 | 238 | 245 pending correction | 252 |
-| Crimson Phoenix | 204 | 211 | 218 | 225 | 232 | 239 | 246 | Planned 253 |
-| Iron Mountain | 205 | 212 | 219 | 226 | 233 | 240 | 247 | Planned 254 |
-| Jade Spirit | 206 | 213 | 220 | 227 | 234 | 241 | 248 | Planned 255 |
-| Shadow Moon | 207 | 214 | 221 | 228 | 235 | 242 | 249 pending correction | Planned 256 |
-| Thousand Beast | 208 | 215 | 222 | 229 | 236 | 243 | 250 pending correction | Planned 257 |
-| Heavenly Dao | 209 | 216 | 223 | 230 | 237 | 244 | 251 pending correction | Planned 258 |
+| Crimson Phoenix | 204 | 211 | 218 | 225 | 232 | 239 | 246 | 253 |
+| Iron Mountain | 205 | 212 | 219 | 226 | 233 | 240 | 247 | 254 |
+| Jade Spirit | 206 | 213 | 220 | 227 | 234 | 241 | 248 | 255 |
+| Shadow Moon | 207 | 214 | 221 | 228 | 235 | 242 | 249 | 256 |
+| Thousand Beast | 208 | 215 | 222 | 229 | 236 | 243 | 250 | 257 |
+| Heavenly Dao | 209 | 216 | 223 | 230 | 237 | 244 | 251 | 258 |
 
-Next ten-generation batch: correct ancestral halls 245, 249–251; six remaining cultivation retreats (253–258, Crimson Phoenix through Heavenly Dao). Corrections must use completely bare walls, beams and door lintels: no plaques, decorative vertical bands, inscriptions, tablets or ornamental glyphs. Follow with a room-by-room audit of all ten functional categories below, identifying any gaps before starting NPC hierarchies. Do not regenerate accepted buildings unnecessarily.
+Next: correct 245 first, with absolutely no framed wall objects, paintings, plaques, tablets or decorative bands; inspect before accepting. Do not regenerate accepted buildings. After correction, finish the interior acceptance audit before beginning NPC generation. If the audit passes, use the remaining nine image slots for Azure Cloud's nine NPC ranks, one multiview sheet per rank (259–267). If correction fails, keep NPC work blocked.
+
+## Interior inventory audit — preliminary, not final acceptance
+
+Checked the current file inventory against the ten planned functional categories and the indexed room descriptions. This is a coverage check, not a fresh visual re-review of every historical sheet or dimensional validation.
+
+| Category | Existing references | Finding |
+|---|---|---|
+| Campus and gatehouse | 113–119, 154–160 | All seven represented |
+| Leadership and ancestral | 189–195, 245–251 | Leadership complete; ancestral 245 withheld |
+| Specialty training | 122, 125, 128, 131, 135, 138, 141; detailed 148–153 | All seven represented; depth varies |
+| Archives | 182–188 | All seven: reading, vault, curator, restoration, study |
+| Disciple living and utilities | 161–174, 210–223 | All seven represented |
+| Elder and guest living | 196–209 | All seven represented |
+| Alchemy, infirmary and pharmacy | 109, 122, 125, 148, 175–181 | Infirmaries all seven; alchemy specialist/shared references, not seven separate alchemy buildings |
+| Workshops and storage | 110, 132, 142–147, 149, 224–230 | All seven represented in service surveys; specialist detail varies |
+| Mission, arbitration and detention | 231–244 | All seven represented |
+| Cultivation retreats | 252–258 | All seven represented |
+
+Acceptance gate remains OPEN because 245 is missing. Do not claim every possible room or building has a dedicated sheet. During final audit, distinguish survey-only shared craft functions from detailed buildings and decide whether additional interior studies are necessary before NPCs. Generated floor plans differ from cutaways in floor counts and connections; modeling must reconcile them.
 
 Complete interior coverage remains in progress. Retain East Asian Xianxia architecture, not Western castles or cathedrals. Ban signage plaques entirely and avoid written ornament on display cases, balcony rails and vaults. Spatial consistency between plans and cutaways needs validation before modeling.
 

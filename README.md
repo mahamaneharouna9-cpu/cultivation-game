@@ -278,10 +278,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Ancestral Hall](docs/concepts/246-crimson-phoenix-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Iron Mountain Ancestral Hall](docs/concepts/247-iron-mountain-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Jade Spirit Ancestral Hall](docs/concepts/248-jade-spirit-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
-| 249 — Shadow Moon Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
-| 250 — Thousand Beast Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
-| 251 — Heavenly Dao Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| [Shadow Moon Ancestral Hall](docs/concepts/249-shadow-moon-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
+| [Thousand Beast Ancestral Hall](docs/concepts/250-thousand-beast-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
+| [Heavenly Dao Ancestral Hall](docs/concepts/251-heavenly-dao-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Azure Cloud Cultivation Retreat](docs/concepts/252-azure-cloud-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Crimson Phoenix Cultivation Retreat](docs/concepts/253-crimson-phoenix-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Iron Mountain Cultivation Retreat](docs/concepts/254-iron-mountain-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Jade Spirit Cultivation Retreat](docs/concepts/255-jade-spirit-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Shadow Moon Cultivation Retreat](docs/concepts/256-shadow-moon-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Thousand Beast Cultivation Retreat](docs/concepts/257-thousand-beast-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Heavenly Dao Cultivation Retreat](docs/concepts/258-heavenly-dao-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
 
 *All sheets use English-only labels.*
 

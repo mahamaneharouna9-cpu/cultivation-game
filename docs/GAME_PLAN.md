@@ -299,10 +299,16 @@
 | `246-crimson-phoenix-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `247-iron-mountain-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `248-jade-spirit-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
-| 249 — Shadow Moon Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
-| 250 — Thousand Beast Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
-| 251 — Heavenly Dao Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| `249-shadow-moon-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
+| `250-thousand-beast-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
+| `251-heavenly-dao-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `252-azure-cloud-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `253-crimson-phoenix-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `254-iron-mountain-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `255-jade-spirit-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `256-shadow-moon-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `257-thousand-beast-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `258-heavenly-dao-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -391,3 +397,8 @@ Supersedes older next-batch notes. Nine of ten generations accepted after visual
 ### Latest sect interior batch — detention completion, ancestral halls and retreat
 
 Supersedes older next-batch notes. Six of ten generations accepted after visual review: 239, 244, 246–248, 252. Detention concepts cover all seven sects. Three ancestral halls and Azure Cloud retreat accepted; four ancestral halls (245, 249–251) withheld for script-like decorations. Next: those four corrections plus six remaining retreats. See SECT_ARCHITECTURE.md for the current matrix. Audit all interior functions before starting NPC hierarchies. Plans remain illustrative, not dimensionally validated.
+
+
+### Latest sect interior batch — retreat coverage and ancestral corrections
+
+Nine of ten generations accepted after visual review: 249–251, 253–258. All seven retreats are present. Azure Cloud ancestral hall 245 still contains script-like framed decorations and remains withheld. Preliminary ten-category inventory audit recorded in SECT_ARCHITECTURE.md; not final acceptance or dimensional validation. Correct 245 and finish audit before NPC phase. Next character scope, only after acceptance: nine Azure Cloud rank turnarounds, then other sects, in batches of ten.
