@@ -193,12 +193,20 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Disciple Residence](docs/concepts/162-crimson-phoenix-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
 | [Iron Mountain Disciple Residence](docs/concepts/163-iron-mountain-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
 | [Jade Spirit Disciple Residence](docs/concepts/164-jade-spirit-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
-| 165 — Shadow Moon Disciple Residence (pending) | Pending regeneration: remove script-like exterior signage |
+| [Shadow Moon Disciple Residence](docs/concepts/165-shadow-moon-disciple-residence.png) | Exterior views, cutaway, floor plan, bedroom, study, washroom, common room, courtyard |
 | [Thousand Beast Disciple Residence](docs/concepts/166-thousand-beast-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
 | [Heavenly Dao Disciple Residence](docs/concepts/167-heavenly-dao-disciple-residence.png) | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard |
 | [Azure Cloud Dining Hall](docs/concepts/168-azure-cloud-dining-hall.png) | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court |
 | [Crimson Phoenix Dining Hall](docs/concepts/169-crimson-phoenix-dining-hall.png) | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court |
-| 170 — Iron Mountain Dining Hall (pending) | Pending regeneration: remove script-like exterior signage |
+| [Iron Mountain Dining Hall](docs/concepts/170-iron-mountain-dining-hall.png) | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court |
+| [Jade Spirit Dining Hall](docs/concepts/171-jade-spirit-dining-hall.png) | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court |
+| [Shadow Moon Dining Hall](docs/concepts/172-shadow-moon-dining-hall.png) | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court |
+| [Thousand Beast Dining Hall](docs/concepts/173-thousand-beast-dining-hall.png) | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court |
+| [Heavenly Dao Dining Hall](docs/concepts/174-heavenly-dao-dining-hall.png) | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court |
+| [Azure Cloud Infirmary](docs/concepts/175-azure-cloud-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
+| [Crimson Phoenix Infirmary](docs/concepts/176-crimson-phoenix-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
+| [Iron Mountain Infirmary](docs/concepts/177-iron-mountain-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
+| [Jade Spirit Infirmary](docs/concepts/178-jade-spirit-infirmary.png) | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court |
 
 *All sheets use English-only labels.*
 

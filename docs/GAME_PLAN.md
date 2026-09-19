@@ -215,12 +215,20 @@
 | `162-crimson-phoenix-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 | `163-iron-mountain-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 | `164-jade-spirit-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
-| 165 — Shadow Moon Disciple Residence (pending) | Pending regeneration: remove script-like exterior signage | Sect architecture and interiors (Parts 2–4) |
+| `165-shadow-moon-disciple-residence.png` | Exterior views, cutaway, floor plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 | `166-thousand-beast-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 | `167-heavenly-dao-disciple-residence.png` | Exterior, cutaway, plan, bedroom, study, washroom, common room, courtyard | Sect architecture and interiors (Parts 2–4) |
 | `168-azure-cloud-dining-hall.png` | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
 | `169-crimson-phoenix-dining-hall.png` | Exterior views, cutaway, plan, dining hall, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
-| 170 — Iron Mountain Dining Hall (pending) | Pending regeneration: remove script-like exterior signage | Sect architecture and interiors (Parts 2–4) |
+| `170-iron-mountain-dining-hall.png` | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `171-jade-spirit-dining-hall.png` | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `172-shadow-moon-dining-hall.png` | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `173-thousand-beast-dining-hall.png` | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `174-heavenly-dao-dining-hall.png` | Exterior views, cutaway, floor plan, dining room, kitchen, pantry, wash area, tea court | Sect architecture and interiors (Parts 2–4) |
+| `175-azure-cloud-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
+| `176-crimson-phoenix-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
+| `177-iron-mountain-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
+| `178-jade-spirit-infirmary.png` | Exterior views, cutaway, floor plan, reception, healing ward, treatment room, herb store, recovery court | Sect architecture and interiors (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -278,3 +286,7 @@ Next batch: repair 143 first, then continue detailed room-by-room building cover
 Ten generations attempted: sheet 143 retry rejected for a script-like wall plaque; nine sheets 153–161 accepted after visual review. Seven sect gatehouses now have detailed exterior and interior concept references. Heavenly Dao Harmony Hall and Azure Cloud disciple residence deepen specialty and housing coverage. Floor plans and cutaways are illustrative, not validated matching construction drawings.
 
 Next batch: repair 143 with no wall plaques or decorative emblems; six other sect disciple residences; Azure Cloud archive, kitchen/pantry and sanitation/utility building (ten sheets total). Later batches must cover sect-specific archives, kitchens, utilities, elder/guest residences and audit room connections before complete interiors can be claimed.
+
+### Latest sect interior batch — sheets 165, 170–178
+
+Supersedes the older next-batch notes above. Corrected the two pending signage sheets (165, 170), completed all seven dining halls, and added the first four infirmaries. All ten images were visually reviewed. See `SECT_ARCHITECTURE.md` for current coverage and the next ten-sheet plan. Complete building coverage remains in progress; generated floor plans require spatial reconciliation before modeling.

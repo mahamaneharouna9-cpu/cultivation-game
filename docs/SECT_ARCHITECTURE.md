@@ -6,17 +6,19 @@ Ten multiview sheets per sect, including exterior studies, furnished cutaways, f
 
 All seven sects have compound overview sheets (113–119), public/living/training interior surveys (120–141), service interiors (132, 142–147), and detailed gatehouses (154–160). Azure Cloud also has the earlier detailed studies (103–112).
 
-| Sect | Detailed disciple residence | Detailed dining hall |
-|---|---|---|
-| Azure Cloud | 161 | 168 |
-| Crimson Phoenix | 162 | 169 |
-| Iron Mountain | 163 | 170 pending signage fix |
-| Jade Spirit | 164 | Planned |
-| Shadow Moon | 165 pending signage fix | Planned |
-| Thousand Beast | 166 | Planned |
-| Heavenly Dao | 167 | Planned |
+| Sect | Detailed disciple residence | Detailed dining hall | Detailed infirmary |
+|---|---|---|---|
+| Azure Cloud | 161 | 168 | 175 |
+| Crimson Phoenix | 162 | 169 | 176 |
+| Iron Mountain | 163 | 170 | 177 |
+| Jade Spirit | 164 | 171 | 178 |
+| Shadow Moon | 165 | 172 | Planned |
+| Thousand Beast | 166 | 173 | Planned |
+| Heavenly Dao | 167 | 174 | Planned |
 
-The latest batch generated ten images: eight accepted, two withheld for script-like signage. Sheet 143 now passes the visual text check. Next: repair 165 and 170, then finish the remaining four dining halls and expand other buildings room by room. Interior surveys do not mean every building has a complete detailed design yet.
+Latest batch: ten images generated and visually reviewed, including corrected sheets 165 and 170, four remaining dining halls (171–174), and four infirmaries (175–178). English labels and East Asian fantasy architecture retained. All seven sects now have detailed disciple residence and dining hall sheets.
+
+Next batch: three remaining infirmaries (Shadow Moon, Thousand Beast, Heavenly Dao), then seven sect-specific archives with reading rooms, secure storage, curator offices and restoration rooms. Interior surveys do not mean every building has a complete detailed design yet.
 
 ## Architectural direction
 
