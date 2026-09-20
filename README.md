@@ -385,6 +385,14 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Thousand Beast Guard](docs/concepts/353-thousand-beast-guard.png) | Front, side, back, face, clothing and equipment |
 | [Thousand Beast Archivist](docs/concepts/354-thousand-beast-archivist.png) | Front, side, back, face, clothing and equipment |
 | [Thousand Beast Healer](docs/concepts/355-thousand-beast-healer.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Artisan](docs/concepts/356-thousand-beast-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Kitchen Staff](docs/concepts/357-thousand-beast-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Deacon](docs/concepts/358-heavenly-dao-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Guard](docs/concepts/359-heavenly-dao-guard.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Archivist](docs/concepts/360-heavenly-dao-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Healer](docs/concepts/361-heavenly-dao-healer.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Artisan](docs/concepts/362-heavenly-dao-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Kitchen Staff](docs/concepts/363-heavenly-dao-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 

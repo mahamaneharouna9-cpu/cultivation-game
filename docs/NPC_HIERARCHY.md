@@ -20,9 +20,9 @@ Architecture concept-reference handoff completed before this phase; see SECT_ARC
 
 ## Latest batch
 
-Ten sheets generated and individually visually reviewed; all accepted: 346–355. Shadow Moon now has all six support roles. Thousand Beast has its Deacon, Guard, Archivist and Healer. English labels are readable; no visible non-English text found. These are representative concepts, not rigged or implemented characters; anatomy, garment construction, trim simplification and equipment consistency require modeling review.
+Eight final support-role sheets (356–363) generated and individually visually reviewed; all accepted. English labels are readable; no visible non-English text found. Two correction slots were not needed. Thousand Beast and Heavenly Dao support-role coverage is complete.
 
-Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support roles: **34 of 42 accepted**.
+Coverage: **63 of 63 rank sheets and 42 of 42 support-role sheets accepted — 105 representative NPC concepts across seven sects.** This completes the planned hierarchy/support concept-reference set, not modeling, rigging, animation, a named story roster or game integration.
 
 ## Support-role coverage
 
@@ -33,13 +33,17 @@ Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support 
 | Iron Mountain | 334 | 335 | 336 | 337 | 338 | 339 |
 | Jade Spirit | 340 | 341 | 342 | 343 | 344 | 345 |
 | Shadow Moon | 346 | 347 | 348 | 349 | 350 | 351 |
-| Thousand Beast | 352 | 353 | 354 | 355 | Planned | Planned |
-| Heavenly Dao | Planned | Planned | Planned | Planned | Planned | Planned |
+| Thousand Beast | 352 | 353 | 354 | 355 | 356 | 357 |
+| Heavenly Dao | 358 | 359 | 360 | 361 | 362 | 363 |
 
-## Final support-role batch — eight remaining sheets
+## Completion audit
 
-- 356–357: Thousand Beast Artisan and Kitchen Staff.
-- 358–363: Heavenly Dao Deacon, Guard, Archivist, Healer, Artisan and Kitchen Staff.
-- Generate these eight remaining sheets without inventing extra roles merely to fill a batch. Reserve spare generation slots for corrections if needed.
-- Review every image; ten attempts maximum including corrections. English-only labels, no script-like ornament. Closed blank books and unmarked containers; abstract geometric insignia only.
-- After acceptance, audit all 63 rank and 42 support sheets and report concept-phase completion separately from modeling and game implementation.
+- Verified one image for every NPC sheet number 259–363, without duplicates or gaps.
+- Verified all seven sects have the nine expected rank filenames and six expected support-role filenames.
+- Verified every NPC image is indexed in README.md and GAME_PLAN.md.
+- Earlier visual acceptance is recorded in prior batch reviews; the eight final sheets were individually reviewed this turn. This audit does not claim a fresh visual re-review of all 105 images.
+- Architecture references precede the NPC phase; see SECT_ARCHITECTURE.md for survey/detail coverage and spatial-validation limits.
+
+## Production handoff
+
+Next work is asset production and game integration, not more hierarchy sheets. Start with a small Azure Cloud playable slice. Reconcile anatomy, cloth layering, fastenings, equipment scale and front/side/back consistency before modeling. Keep costume trims geometric and all in-game writing English. Define geometry, textures, rigging, animation and performance budgets before broad asset production. These images are references, not rigged game assets.

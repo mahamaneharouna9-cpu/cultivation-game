@@ -406,6 +406,14 @@
 | `353-thousand-beast-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `354-thousand-beast-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `355-thousand-beast-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `356-thousand-beast-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `357-thousand-beast-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `358-heavenly-dao-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `359-heavenly-dao-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `360-heavenly-dao-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `361-heavenly-dao-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `362-heavenly-dao-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `363-heavenly-dao-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -539,3 +547,8 @@ Ten sheets generated and visually reviewed, all accepted. Azure Cloud and Crimso
 ### Latest support NPC batch — sheets 336–345
 
 All ten generated sheets individually visually reviewed and accepted. Iron Mountain and Jade Spirit each now have six support-role concepts. Rank coverage remains 63/63; support coverage is 24/42. See NPC_HIERARCHY.md for the next batch (346–355). These are multiview art references, not implemented game NPCs.
+
+
+### Seven-sect NPC concept-reference completion
+
+Final eight support-role sheets 356–363 visually reviewed and accepted. Inventory audit passed: 63 rank sheets plus 42 support sheets, nine ranks and six support roles per sect, all indexed in both documentation tables. See NPC_HIERARCHY.md. Earlier batch next-step notes are superseded. Planned hierarchy/support reference coverage is complete; character modeling, rigging, animation and game integration remain pending. No game code changed in this batch.
