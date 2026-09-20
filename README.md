@@ -297,6 +297,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Azure Cloud Peak Master](docs/concepts/265-azure-cloud-peak-master.png) | Front, side, back, face, clothing and equipment |
 | [Azure Cloud Grand Elder](docs/concepts/266-azure-cloud-grand-elder.png) | Front, side, back, face, clothing and equipment |
 | [Azure Cloud Sect Master](docs/concepts/267-azure-cloud-sect-master.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Servant Disciple](docs/concepts/268-crimson-phoenix-servant-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Outer Disciple](docs/concepts/269-crimson-phoenix-outer-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Inner Disciple](docs/concepts/270-crimson-phoenix-inner-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Core Disciple](docs/concepts/271-crimson-phoenix-core-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Personal Disciple](docs/concepts/272-crimson-phoenix-personal-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Elder](docs/concepts/273-crimson-phoenix-elder.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Peak Master](docs/concepts/274-crimson-phoenix-peak-master.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Grand Elder](docs/concepts/275-crimson-phoenix-grand-elder.png) | Front, side, back, face, clothing and equipment studies |
+| [Crimson Phoenix Sect Master](docs/concepts/276-crimson-phoenix-sect-master.png) | Front, side, back, face, clothing and equipment studies |
+| [Iron Mountain Servant Disciple](docs/concepts/277-iron-mountain-servant-disciple.png) | Front, side, back, face, clothing and equipment studies |
 
 *All sheets use English-only labels.*
 

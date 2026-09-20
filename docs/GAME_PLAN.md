@@ -318,6 +318,16 @@
 | `265-azure-cloud-peak-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 | `266-azure-cloud-grand-elder.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 | `267-azure-cloud-sect-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `268-crimson-phoenix-servant-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `269-crimson-phoenix-outer-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `270-crimson-phoenix-inner-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `271-crimson-phoenix-core-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `272-crimson-phoenix-personal-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `273-crimson-phoenix-elder.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `274-crimson-phoenix-peak-master.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `275-crimson-phoenix-grand-elder.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `276-crimson-phoenix-sect-master.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `277-iron-mountain-servant-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -416,3 +426,8 @@ Nine of ten generations accepted after visual review: 249–251, 253–258. All 
 ### Architecture handoff and first full NPC rank set
 
 Sheet 245 correction passed visual review. Planned concept-reference coverage accepted after checking the ten functional categories and confirming sheets 113–258 have no missing or duplicate numbers. Shared crafting spaces retain survey/specialist references; spatial modeling validation remains outstanding. NPC phase started only after this handoff. Azure Cloud ranks 259–267 generated and visually reviewed: nine accepted sheets with front/side/back views, face, clothing and equipment. See NPC_HIERARCHY.md for continuation.
+
+
+### NPC hierarchy batch — Crimson Phoenix and Iron Mountain starter
+
+268–277 generated and individually visually reviewed; all ten accepted. Crimson Phoenix now has all nine rank references. Iron Mountain Servant Disciple is accepted. Total rank coverage: 19/63. Next: eight remaining Iron Mountain ranks and two Jade Spirit starter ranks. See NPC_HIERARCHY.md for coverage and production limitations.
