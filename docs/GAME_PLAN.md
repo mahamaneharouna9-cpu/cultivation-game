@@ -331,13 +331,21 @@
 | `278-iron-mountain-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `279-iron-mountain-inner-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `280-iron-mountain-core-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
-| 281 — Iron Mountain Personal Disciple (pending) | Generation failed: sandbox timeout; retry pending | Seven-sect NPC hierarchy (Parts 2–4) |
+| `281-iron-mountain-personal-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
 | `282-iron-mountain-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `283-iron-mountain-peak-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `284-iron-mountain-grand-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `285-iron-mountain-sect-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
-| 286 — Jade Spirit Servant Disciple (pending) | Correction needed: remove script-like embroidery | Seven-sect NPC hierarchy (Parts 2–4) |
+| `286-jade-spirit-servant-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
 | `287-jade-spirit-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `288-jade-spirit-inner-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `289-jade-spirit-core-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `290-jade-spirit-personal-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `291-jade-spirit-elder.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `292-jade-spirit-peak-master.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `293-jade-spirit-grand-elder.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `294-jade-spirit-sect-master.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `295-shadow-moon-servant-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -446,3 +454,8 @@ Sheet 245 correction passed visual review. Planned concept-reference coverage ac
 ### Latest NPC batch — 278–287
 
 Eight accepted after visual review. Sheet 281 generation failed (sandbox timeout, no image); sheet 286 withheld for script-like embroidery. Coverage is 27/63 rank sheets. See NPC_HIERARCHY.md for next batch and acceptance status. Architecture concept handoff remains complete with modeling/spatial-validation limitations documented separately.
+
+
+### Latest NPC batch — Iron Mountain completion and Jade Spirit ranks
+
+Ten of ten sheets accepted after visual review: 281, 286, 288–295. Iron Mountain and Jade Spirit now join Azure Cloud and Crimson Phoenix with nine ranks each; Shadow Moon has its Servant Disciple. Total 37/63 rank concepts accepted. Next: eight remaining Shadow Moon ranks and the first two Thousand Beast ranks. See NPC_HIERARCHY.md. These are representative design references, not implemented or named story characters.

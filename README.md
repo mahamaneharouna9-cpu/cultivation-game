@@ -310,13 +310,21 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Iron Mountain Outer Disciple](docs/concepts/278-iron-mountain-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Inner Disciple](docs/concepts/279-iron-mountain-inner-disciple.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Core Disciple](docs/concepts/280-iron-mountain-core-disciple.png) | Front, side, back, face, clothing and equipment details |
-| 281 — Iron Mountain Personal Disciple (pending) | Generation failed: sandbox timeout; retry pending |
+| [Iron Mountain Personal Disciple](docs/concepts/281-iron-mountain-personal-disciple.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Elder](docs/concepts/282-iron-mountain-elder.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Peak Master](docs/concepts/283-iron-mountain-peak-master.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Grand Elder](docs/concepts/284-iron-mountain-grand-elder.png) | Front, side, back, face, clothing and equipment details |
 | [Iron Mountain Sect Master](docs/concepts/285-iron-mountain-sect-master.png) | Front, side, back, face, clothing and equipment details |
-| 286 — Jade Spirit Servant Disciple (pending) | Correction needed: remove script-like embroidery |
+| [Jade Spirit Servant Disciple](docs/concepts/286-jade-spirit-servant-disciple.png) | Front, side, back, face, clothing and equipment details |
 | [Jade Spirit Outer Disciple](docs/concepts/287-jade-spirit-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Inner Disciple](docs/concepts/288-jade-spirit-inner-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Core Disciple](docs/concepts/289-jade-spirit-core-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Personal Disciple](docs/concepts/290-jade-spirit-personal-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Elder](docs/concepts/291-jade-spirit-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Peak Master](docs/concepts/292-jade-spirit-peak-master.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Grand Elder](docs/concepts/293-jade-spirit-grand-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Jade Spirit Sect Master](docs/concepts/294-jade-spirit-sect-master.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Servant Disciple](docs/concepts/295-shadow-moon-servant-disciple.png) | Front, side, back, face, clothing and equipment details |
 
 *All sheets use English-only labels.*
 
