@@ -274,7 +274,7 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Shadow Moon Detention Hall](docs/concepts/242-shadow-moon-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Thousand Beast Detention Hall](docs/concepts/243-thousand-beast-detention-hall.png) | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court |
 | [Heavenly Dao Detention Hall](docs/concepts/244-heavenly-dao-detention-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court |
-| 245 — Azure Cloud Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings |
+| [Azure Cloud Ancestral Hall](docs/concepts/245-azure-cloud-ancestral-hall.png) | Exterior views, furnished cutaway, floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Crimson Phoenix Ancestral Hall](docs/concepts/246-crimson-phoenix-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Iron Mountain Ancestral Hall](docs/concepts/247-iron-mountain-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
 | [Jade Spirit Ancestral Hall](docs/concepts/248-jade-spirit-ancestral-hall.png) | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden |
@@ -288,6 +288,15 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Shadow Moon Cultivation Retreat](docs/concepts/256-shadow-moon-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
 | [Thousand Beast Cultivation Retreat](docs/concepts/257-thousand-beast-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
 | [Heavenly Dao Cultivation Retreat](docs/concepts/258-heavenly-dao-cultivation-retreat.png) | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden |
+| [Azure Cloud Servant Disciple](docs/concepts/259-azure-cloud-servant-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Outer Disciple](docs/concepts/260-azure-cloud-outer-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Inner Disciple](docs/concepts/261-azure-cloud-inner-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Core Disciple](docs/concepts/262-azure-cloud-core-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Personal Disciple](docs/concepts/263-azure-cloud-personal-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Elder](docs/concepts/264-azure-cloud-elder.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Peak Master](docs/concepts/265-azure-cloud-peak-master.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Grand Elder](docs/concepts/266-azure-cloud-grand-elder.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Sect Master](docs/concepts/267-azure-cloud-sect-master.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 

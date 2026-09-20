@@ -295,7 +295,7 @@
 | `242-shadow-moon-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `243-thousand-beast-detention-hall.png` | Exterior views, furnished cutaway, floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
 | `244-heavenly-dao-detention-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, intake, guard room, holding room, visit room, exercise court | Sect interiors (Parts 2–4) |
-| 245 — Azure Cloud Ancestral Hall (pending) | Regeneration needed: remove script-like decorative markings | Sect interiors (Parts 2–4) |
+| `245-azure-cloud-ancestral-hall.png` | Exterior views, furnished cutaway, floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `246-crimson-phoenix-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `247-iron-mountain-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
 | `248-jade-spirit-ancestral-hall.png` | Exterior views, furnished cutaway, conceptual floor plan, ancestor chamber, relic room, offering room, preparation room, memorial garden | Sect interiors (Parts 2–4) |
@@ -309,6 +309,15 @@
 | `256-shadow-moon-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
 | `257-thousand-beast-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
 | `258-heavenly-dao-cultivation-retreat.png` | Exterior views, furnished cutaway, conceptual floor plan, meditation chamber, breathing room, rest room, bathing room, tea garden | Sect interiors (Parts 2–4) |
+| `259-azure-cloud-servant-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `260-azure-cloud-outer-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `261-azure-cloud-inner-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `262-azure-cloud-core-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `263-azure-cloud-personal-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `264-azure-cloud-elder.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `265-azure-cloud-peak-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `266-azure-cloud-grand-elder.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `267-azure-cloud-sect-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -402,3 +411,8 @@ Supersedes older next-batch notes. Six of ten generations accepted after visual 
 ### Latest sect interior batch — retreat coverage and ancestral corrections
 
 Nine of ten generations accepted after visual review: 249–251, 253–258. All seven retreats are present. Azure Cloud ancestral hall 245 still contains script-like framed decorations and remains withheld. Preliminary ten-category inventory audit recorded in SECT_ARCHITECTURE.md; not final acceptance or dimensional validation. Correct 245 and finish audit before NPC phase. Next character scope, only after acceptance: nine Azure Cloud rank turnarounds, then other sects, in batches of ten.
+
+
+### Architecture handoff and first full NPC rank set
+
+Sheet 245 correction passed visual review. Planned concept-reference coverage accepted after checking the ten functional categories and confirming sheets 113–258 have no missing or duplicate numbers. Shared crafting spaces retain survey/specialist references; spatial modeling validation remains outstanding. NPC phase started only after this handoff. Azure Cloud ranks 259–267 generated and visually reviewed: nine accepted sheets with front/side/back views, face, clothing and equipment. See NPC_HIERARCHY.md for continuation.
