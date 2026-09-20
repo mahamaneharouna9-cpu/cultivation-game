@@ -335,6 +335,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Shadow Moon Sect Master](docs/concepts/303-shadow-moon-sect-master.png) | Front, side, back, face, clothing and equipment details |
 | [Thousand Beast Servant Disciple](docs/concepts/304-thousand-beast-servant-disciple.png) | Front, side, back, face, clothing and equipment details |
 | [Thousand Beast Outer Disciple](docs/concepts/305-thousand-beast-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Thousand Beast Inner Disciple](docs/concepts/306-thousand-beast-inner-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Core Disciple](docs/concepts/307-thousand-beast-core-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Personal Disciple](docs/concepts/308-thousand-beast-personal-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Elder](docs/concepts/309-thousand-beast-elder.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Peak Master](docs/concepts/310-thousand-beast-peak-master.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Grand Elder](docs/concepts/311-thousand-beast-grand-elder.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Sect Master](docs/concepts/312-thousand-beast-sect-master.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Servant Disciple](docs/concepts/313-heavenly-dao-servant-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Outer Disciple](docs/concepts/314-heavenly-dao-outer-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Inner Disciple](docs/concepts/315-heavenly-dao-inner-disciple.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 

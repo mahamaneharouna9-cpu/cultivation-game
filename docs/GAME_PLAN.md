@@ -356,6 +356,16 @@
 | `303-shadow-moon-sect-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `304-thousand-beast-servant-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 | `305-thousand-beast-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `306-thousand-beast-inner-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `307-thousand-beast-core-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `308-thousand-beast-personal-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `309-thousand-beast-elder.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `310-thousand-beast-peak-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `311-thousand-beast-grand-elder.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `312-thousand-beast-sect-master.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `313-heavenly-dao-servant-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `314-heavenly-dao-outer-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `315-heavenly-dao-inner-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
