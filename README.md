@@ -345,6 +345,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Heavenly Dao Servant Disciple](docs/concepts/313-heavenly-dao-servant-disciple.png) | Front, side, back, face, clothing and equipment |
 | [Heavenly Dao Outer Disciple](docs/concepts/314-heavenly-dao-outer-disciple.png) | Front, side, back, face, clothing and equipment |
 | [Heavenly Dao Inner Disciple](docs/concepts/315-heavenly-dao-inner-disciple.png) | Front, side, back, face, clothing and equipment |
+| [Heavenly Dao Core Disciple](docs/concepts/316-heavenly-dao-core-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Heavenly Dao Personal Disciple](docs/concepts/317-heavenly-dao-personal-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Heavenly Dao Elder](docs/concepts/318-heavenly-dao-elder.png) | Front, side, back, face, clothing and equipment studies |
+| [Heavenly Dao Peak Master](docs/concepts/319-heavenly-dao-peak-master.png) | Front, side, back, face, clothing and equipment studies |
+| [Heavenly Dao Grand Elder](docs/concepts/320-heavenly-dao-grand-elder.png) | Front, side, back, face, clothing and equipment studies |
+| [Heavenly Dao Sect Master](docs/concepts/321-heavenly-dao-sect-master.png) | Front, side, back, face, clothing and equipment studies |
+| [Azure Cloud Deacon](docs/concepts/322-azure-cloud-deacon.png) | Front, side, back, face, clothing and equipment studies |
+| [Azure Cloud Guard](docs/concepts/323-azure-cloud-guard.png) | Front, side, back, face, clothing and equipment studies |
+| [Azure Cloud Archivist](docs/concepts/324-azure-cloud-archivist.png) | Front, side, back, face, clothing and equipment studies |
+| [Azure Cloud Healer](docs/concepts/325-azure-cloud-healer.png) | Front, side, back, face, clothing and equipment studies |
 
 *All sheets use English-only labels.*
 

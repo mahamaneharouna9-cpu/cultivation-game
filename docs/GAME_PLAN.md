@@ -366,6 +366,16 @@
 | `313-heavenly-dao-servant-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 | `314-heavenly-dao-outer-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
 | `315-heavenly-dao-inner-disciple.png` | Front, side, back, face, clothing and equipment | Sect NPC hierarchy (Parts 2–4) |
+| `316-heavenly-dao-core-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `317-heavenly-dao-personal-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `318-heavenly-dao-elder.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `319-heavenly-dao-peak-master.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `320-heavenly-dao-grand-elder.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `321-heavenly-dao-sect-master.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `322-azure-cloud-deacon.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `323-azure-cloud-guard.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `324-azure-cloud-archivist.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `325-azure-cloud-healer.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -484,3 +494,8 @@ Ten of ten sheets accepted after visual review: 281, 286, 288–295. Iron Mounta
 ### Latest NPC batch — sheets 296–305
 
 Ten of ten accepted after individual visual review. Shadow Moon hierarchy is complete; Thousand Beast Servant and Outer Disciple added. Coverage is 47/63 representative rank designs. Next: seven remaining Thousand Beast ranks and the first three Heavenly Dao ranks. See NPC_HIERARCHY.md. English-only labels and no visible script-like decoration found; modeling still requires cross-view consistency checks.
+
+
+### Latest NPC batch — 316–325
+
+All ten generated sheets visually reviewed and accepted. Heavenly Dao ranks complete; the seven-sect hierarchy now has 63/63 representative rank concepts. Azure Cloud support-role concepts added: Deacon, Guard, Archivist and Healer. See NPC_HIERARCHY.md for the next ten-sheet plan. Concept references still require character modeling and consistency review.
