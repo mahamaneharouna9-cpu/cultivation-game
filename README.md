@@ -375,6 +375,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Jade Spirit Healer](docs/concepts/343-jade-spirit-healer.png) | Front, side, back, face, clothing and equipment |
 | [Jade Spirit Artisan](docs/concepts/344-jade-spirit-artisan.png) | Front, side, back, face, clothing and equipment |
 | [Jade Spirit Kitchen Staff](docs/concepts/345-jade-spirit-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Deacon](docs/concepts/346-shadow-moon-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Guard](docs/concepts/347-shadow-moon-guard.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Archivist](docs/concepts/348-shadow-moon-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Healer](docs/concepts/349-shadow-moon-healer.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Artisan](docs/concepts/350-shadow-moon-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Shadow Moon Kitchen Staff](docs/concepts/351-shadow-moon-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Deacon](docs/concepts/352-thousand-beast-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Guard](docs/concepts/353-thousand-beast-guard.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Archivist](docs/concepts/354-thousand-beast-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Thousand Beast Healer](docs/concepts/355-thousand-beast-healer.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 

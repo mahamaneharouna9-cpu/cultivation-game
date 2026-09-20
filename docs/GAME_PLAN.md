@@ -396,6 +396,16 @@
 | `343-jade-spirit-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `344-jade-spirit-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `345-jade-spirit-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `346-shadow-moon-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `347-shadow-moon-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `348-shadow-moon-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `349-shadow-moon-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `350-shadow-moon-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `351-shadow-moon-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `352-thousand-beast-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `353-thousand-beast-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `354-thousand-beast-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `355-thousand-beast-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
