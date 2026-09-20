@@ -346,6 +346,16 @@
 | `293-jade-spirit-grand-elder.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
 | `294-jade-spirit-sect-master.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
 | `295-shadow-moon-servant-disciple.png` | Front, side, back, face, clothing and equipment details | Sect NPC hierarchy (Parts 2–4) |
+| `296-shadow-moon-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `297-shadow-moon-inner-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `298-shadow-moon-core-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `299-shadow-moon-personal-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `300-shadow-moon-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `301-shadow-moon-peak-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `302-shadow-moon-grand-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `303-shadow-moon-sect-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `304-thousand-beast-servant-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `305-thousand-beast-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -459,3 +469,8 @@ Eight accepted after visual review. Sheet 281 generation failed (sandbox timeout
 ### Latest NPC batch — Iron Mountain completion and Jade Spirit ranks
 
 Ten of ten sheets accepted after visual review: 281, 286, 288–295. Iron Mountain and Jade Spirit now join Azure Cloud and Crimson Phoenix with nine ranks each; Shadow Moon has its Servant Disciple. Total 37/63 rank concepts accepted. Next: eight remaining Shadow Moon ranks and the first two Thousand Beast ranks. See NPC_HIERARCHY.md. These are representative design references, not implemented or named story characters.
+
+
+### Latest NPC batch — sheets 296–305
+
+Ten of ten accepted after individual visual review. Shadow Moon hierarchy is complete; Thousand Beast Servant and Outer Disciple added. Coverage is 47/63 representative rank designs. Next: seven remaining Thousand Beast ranks and the first three Heavenly Dao ranks. See NPC_HIERARCHY.md. English-only labels and no visible script-like decoration found; modeling still requires cross-view consistency checks.

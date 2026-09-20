@@ -325,6 +325,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Jade Spirit Grand Elder](docs/concepts/293-jade-spirit-grand-elder.png) | Front, side, back, face, clothing and equipment details |
 | [Jade Spirit Sect Master](docs/concepts/294-jade-spirit-sect-master.png) | Front, side, back, face, clothing and equipment details |
 | [Shadow Moon Servant Disciple](docs/concepts/295-shadow-moon-servant-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Outer Disciple](docs/concepts/296-shadow-moon-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Inner Disciple](docs/concepts/297-shadow-moon-inner-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Core Disciple](docs/concepts/298-shadow-moon-core-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Personal Disciple](docs/concepts/299-shadow-moon-personal-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Elder](docs/concepts/300-shadow-moon-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Peak Master](docs/concepts/301-shadow-moon-peak-master.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Grand Elder](docs/concepts/302-shadow-moon-grand-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Shadow Moon Sect Master](docs/concepts/303-shadow-moon-sect-master.png) | Front, side, back, face, clothing and equipment details |
+| [Thousand Beast Servant Disciple](docs/concepts/304-thousand-beast-servant-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Thousand Beast Outer Disciple](docs/concepts/305-thousand-beast-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
 
 *All sheets use English-only labels.*
 
