@@ -328,6 +328,16 @@
 | `275-crimson-phoenix-grand-elder.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
 | `276-crimson-phoenix-sect-master.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
 | `277-iron-mountain-servant-disciple.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC hierarchy (Parts 2–4) |
+| `278-iron-mountain-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `279-iron-mountain-inner-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `280-iron-mountain-core-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| 281 — Iron Mountain Personal Disciple (pending) | Generation failed: sandbox timeout; retry pending | Seven-sect NPC hierarchy (Parts 2–4) |
+| `282-iron-mountain-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `283-iron-mountain-peak-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `284-iron-mountain-grand-elder.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| `285-iron-mountain-sect-master.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
+| 286 — Jade Spirit Servant Disciple (pending) | Correction needed: remove script-like embroidery | Seven-sect NPC hierarchy (Parts 2–4) |
+| `287-jade-spirit-outer-disciple.png` | Front, side, back, face, clothing and equipment details | Seven-sect NPC hierarchy (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -431,3 +441,8 @@ Sheet 245 correction passed visual review. Planned concept-reference coverage ac
 ### NPC hierarchy batch — Crimson Phoenix and Iron Mountain starter
 
 268–277 generated and individually visually reviewed; all ten accepted. Crimson Phoenix now has all nine rank references. Iron Mountain Servant Disciple is accepted. Total rank coverage: 19/63. Next: eight remaining Iron Mountain ranks and two Jade Spirit starter ranks. See NPC_HIERARCHY.md for coverage and production limitations.
+
+
+### Latest NPC batch — 278–287
+
+Eight accepted after visual review. Sheet 281 generation failed (sandbox timeout, no image); sheet 286 withheld for script-like embroidery. Coverage is 27/63 rank sheets. See NPC_HIERARCHY.md for next batch and acceptance status. Architecture concept handoff remains complete with modeling/spatial-validation limitations documented separately.

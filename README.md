@@ -307,6 +307,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Grand Elder](docs/concepts/275-crimson-phoenix-grand-elder.png) | Front, side, back, face, clothing and equipment studies |
 | [Crimson Phoenix Sect Master](docs/concepts/276-crimson-phoenix-sect-master.png) | Front, side, back, face, clothing and equipment studies |
 | [Iron Mountain Servant Disciple](docs/concepts/277-iron-mountain-servant-disciple.png) | Front, side, back, face, clothing and equipment studies |
+| [Iron Mountain Outer Disciple](docs/concepts/278-iron-mountain-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Iron Mountain Inner Disciple](docs/concepts/279-iron-mountain-inner-disciple.png) | Front, side, back, face, clothing and equipment details |
+| [Iron Mountain Core Disciple](docs/concepts/280-iron-mountain-core-disciple.png) | Front, side, back, face, clothing and equipment details |
+| 281 — Iron Mountain Personal Disciple (pending) | Generation failed: sandbox timeout; retry pending |
+| [Iron Mountain Elder](docs/concepts/282-iron-mountain-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Iron Mountain Peak Master](docs/concepts/283-iron-mountain-peak-master.png) | Front, side, back, face, clothing and equipment details |
+| [Iron Mountain Grand Elder](docs/concepts/284-iron-mountain-grand-elder.png) | Front, side, back, face, clothing and equipment details |
+| [Iron Mountain Sect Master](docs/concepts/285-iron-mountain-sect-master.png) | Front, side, back, face, clothing and equipment details |
+| 286 — Jade Spirit Servant Disciple (pending) | Correction needed: remove script-like embroidery |
+| [Jade Spirit Outer Disciple](docs/concepts/287-jade-spirit-outer-disciple.png) | Front, side, back, face, clothing and equipment details |
 
 *All sheets use English-only labels.*
 
