@@ -355,6 +355,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Azure Cloud Guard](docs/concepts/323-azure-cloud-guard.png) | Front, side, back, face, clothing and equipment studies |
 | [Azure Cloud Archivist](docs/concepts/324-azure-cloud-archivist.png) | Front, side, back, face, clothing and equipment studies |
 | [Azure Cloud Healer](docs/concepts/325-azure-cloud-healer.png) | Front, side, back, face, clothing and equipment studies |
+| [Azure Cloud Artisan](docs/concepts/326-azure-cloud-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Azure Cloud Kitchen Staff](docs/concepts/327-azure-cloud-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Deacon](docs/concepts/328-crimson-phoenix-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Guard](docs/concepts/329-crimson-phoenix-guard.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Archivist](docs/concepts/330-crimson-phoenix-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Healer](docs/concepts/331-crimson-phoenix-healer.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Artisan](docs/concepts/332-crimson-phoenix-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Crimson Phoenix Kitchen Staff](docs/concepts/333-crimson-phoenix-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Deacon](docs/concepts/334-iron-mountain-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Guard](docs/concepts/335-iron-mountain-guard.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 

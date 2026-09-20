@@ -20,17 +20,17 @@ Architecture concept-reference handoff completed before this phase; see SECT_ARC
 
 ## Latest batch
 
-Ten sheets generated and individually visually reviewed; all accepted: 316–325. Heavenly Dao's final six ranks complete the hierarchy phase. Azure Cloud support roles begin with Deacon, Guard, Archivist and Healer. Labels are English; no visible script-like decorations found. Garment seams, hand anatomy and equipment positioning require modeling review; these are representative concept designs, not implemented characters.
+Ten sheets generated and individually visually reviewed; all accepted: 326–335. Azure Cloud's Artisan and Kitchen Staff complete its six support roles. Crimson Phoenix now has all six support roles. Iron Mountain begins with Deacon and Guard. English labels are readable; no visible script-like ornament found. These are representative designs, not implemented or rigged characters. Anatomy, garment seams and equipment alignment require modeling review.
 
-Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support roles: 4 of 42 planned sheets accepted.
+Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support roles: **14 of 42 accepted**.
 
 ## Support-role coverage
 
 | Sect | Deacon | Guard | Archivist | Healer | Artisan | Kitchen staff |
 |---|---|---|---|---|---|---|
-| Azure Cloud | 322 | 323 | 324 | 325 | Planned | Planned |
-| Crimson Phoenix | Planned | Planned | Planned | Planned | Planned | Planned |
-| Iron Mountain | Planned | Planned | Planned | Planned | Planned | Planned |
+| Azure Cloud | 322 | 323 | 324 | 325 | 326 | 327 |
+| Crimson Phoenix | 328 | 329 | 330 | 331 | 332 | 333 |
+| Iron Mountain | 334 | 335 | Planned | Planned | Planned | Planned |
 | Jade Spirit | Planned | Planned | Planned | Planned | Planned | Planned |
 | Shadow Moon | Planned | Planned | Planned | Planned | Planned | Planned |
 | Thousand Beast | Planned | Planned | Planned | Planned | Planned | Planned |
@@ -38,7 +38,6 @@ Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support 
 
 ## Next batch of ten
 
-- 326–327: Azure Cloud Artisan and Kitchen Staff.
-- 328–333: Crimson Phoenix Deacon, Guard, Archivist, Healer, Artisan and Kitchen Staff.
-- 334–335: Iron Mountain Deacon and Guard.
-- Review every image; ten attempts maximum including corrections. English-only labels, no script-like ornament.
+- 336–339: Iron Mountain Archivist, Healer, Artisan and Kitchen Staff.
+- 340–345: Jade Spirit Deacon, Guard, Archivist, Healer, Artisan and Kitchen Staff.
+- Review every image; ten attempts maximum including corrections. English-only labels, no script-like ornament. Closed blank books and unmarked containers; abstract geometric insignia only.

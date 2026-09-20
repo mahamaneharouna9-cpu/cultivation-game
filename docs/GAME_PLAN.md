@@ -376,6 +376,16 @@
 | `323-azure-cloud-guard.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
 | `324-azure-cloud-archivist.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
 | `325-azure-cloud-healer.png` | Front, side, back, face, clothing and equipment studies | Seven-sect NPC concepts (Parts 2–4) |
+| `326-azure-cloud-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `327-azure-cloud-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `328-crimson-phoenix-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `329-crimson-phoenix-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `330-crimson-phoenix-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `331-crimson-phoenix-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `332-crimson-phoenix-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `333-crimson-phoenix-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `334-iron-mountain-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `335-iron-mountain-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -499,3 +509,8 @@ Ten of ten accepted after individual visual review. Shadow Moon hierarchy is com
 ### Latest NPC batch — 316–325
 
 All ten generated sheets visually reviewed and accepted. Heavenly Dao ranks complete; the seven-sect hierarchy now has 63/63 representative rank concepts. Azure Cloud support-role concepts added: Deacon, Guard, Archivist and Healer. See NPC_HIERARCHY.md for the next ten-sheet plan. Concept references still require character modeling and consistency review.
+
+
+### Latest NPC support batch — 326–335
+
+Ten sheets generated and visually reviewed, all accepted. Azure Cloud and Crimson Phoenix support roles are complete (six each); Iron Mountain Deacon and Guard added. Rank hierarchy remains 63/63, support roles now 14/42. Next: Iron Mountain's remaining four support roles and all six Jade Spirit support roles. See NPC_HIERARCHY.md. These are concept references, not implemented game characters.
