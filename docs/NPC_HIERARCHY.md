@@ -20,9 +20,9 @@ Architecture concept-reference handoff completed before this phase; see SECT_ARC
 
 ## Latest batch
 
-Ten sheets generated and individually visually reviewed; all accepted: 326–335. Azure Cloud's Artisan and Kitchen Staff complete its six support roles. Crimson Phoenix now has all six support roles. Iron Mountain begins with Deacon and Guard. English labels are readable; no visible script-like ornament found. These are representative designs, not implemented or rigged characters. Anatomy, garment seams and equipment alignment require modeling review.
+Ten sheets generated and individually visually reviewed; all accepted: 336–345. Iron Mountain's Archivist, Healer, Artisan and Kitchen Staff complete its six support roles. Jade Spirit now has all six support roles. English labels are readable; no visible script-like ornament found. These are representative concepts, not rigged or implemented characters; anatomy, garment construction and equipment consistency require modeling review.
 
-Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support roles: **14 of 42 accepted**.
+Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support roles: **24 of 42 accepted**.
 
 ## Support-role coverage
 
@@ -30,14 +30,15 @@ Coverage: **63 of 63 rank sheets accepted — all seven sects at 9/9.** Support 
 |---|---|---|---|---|---|---|
 | Azure Cloud | 322 | 323 | 324 | 325 | 326 | 327 |
 | Crimson Phoenix | 328 | 329 | 330 | 331 | 332 | 333 |
-| Iron Mountain | 334 | 335 | Planned | Planned | Planned | Planned |
-| Jade Spirit | Planned | Planned | Planned | Planned | Planned | Planned |
+| Iron Mountain | 334 | 335 | 336 | 337 | 338 | 339 |
+| Jade Spirit | 340 | 341 | 342 | 343 | 344 | 345 |
 | Shadow Moon | Planned | Planned | Planned | Planned | Planned | Planned |
 | Thousand Beast | Planned | Planned | Planned | Planned | Planned | Planned |
 | Heavenly Dao | Planned | Planned | Planned | Planned | Planned | Planned |
 
 ## Next batch of ten
 
-- 336–339: Iron Mountain Archivist, Healer, Artisan and Kitchen Staff.
-- 340–345: Jade Spirit Deacon, Guard, Archivist, Healer, Artisan and Kitchen Staff.
+- 346–351: Shadow Moon Deacon, Guard, Archivist, Healer, Artisan and Kitchen Staff.
+- 352–355: Thousand Beast Deacon, Guard, Archivist and Healer.
+- Then 356–357: Thousand Beast Artisan and Kitchen Staff; 358–363: Heavenly Dao's six support roles (eight remaining sheets, do not invent extra roles merely to fill a batch).
 - Review every image; ten attempts maximum including corrections. English-only labels, no script-like ornament. Closed blank books and unmarked containers; abstract geometric insignia only.

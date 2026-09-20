@@ -386,6 +386,16 @@
 | `333-crimson-phoenix-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `334-iron-mountain-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 | `335-iron-mountain-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `336-iron-mountain-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `337-iron-mountain-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `338-iron-mountain-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `339-iron-mountain-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `340-jade-spirit-deacon.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `341-jade-spirit-guard.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `342-jade-spirit-archivist.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `343-jade-spirit-healer.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `344-jade-spirit-artisan.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
+| `345-jade-spirit-kitchen-staff.png` | Front, side, back, face, clothing and equipment | Sect support NPC concepts (Parts 2–4) |
 
 > Language lock: all concept sheets use **English-only labels** (re-issued 2026-09-18).
 
@@ -514,3 +524,8 @@ All ten generated sheets visually reviewed and accepted. Heavenly Dao ranks comp
 ### Latest NPC support batch — 326–335
 
 Ten sheets generated and visually reviewed, all accepted. Azure Cloud and Crimson Phoenix support roles are complete (six each); Iron Mountain Deacon and Guard added. Rank hierarchy remains 63/63, support roles now 14/42. Next: Iron Mountain's remaining four support roles and all six Jade Spirit support roles. See NPC_HIERARCHY.md. These are concept references, not implemented game characters.
+
+
+### Latest support NPC batch — sheets 336–345
+
+All ten generated sheets individually visually reviewed and accepted. Iron Mountain and Jade Spirit each now have six support-role concepts. Rank coverage remains 63/63; support coverage is 24/42. See NPC_HIERARCHY.md for the next batch (346–355). These are multiview art references, not implemented game NPCs.

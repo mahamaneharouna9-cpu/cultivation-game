@@ -365,6 +365,16 @@ No build step. Any static server works. `game/` is also ready for **GitHub Pages
 | [Crimson Phoenix Kitchen Staff](docs/concepts/333-crimson-phoenix-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
 | [Iron Mountain Deacon](docs/concepts/334-iron-mountain-deacon.png) | Front, side, back, face, clothing and equipment |
 | [Iron Mountain Guard](docs/concepts/335-iron-mountain-guard.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Archivist](docs/concepts/336-iron-mountain-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Healer](docs/concepts/337-iron-mountain-healer.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Artisan](docs/concepts/338-iron-mountain-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Iron Mountain Kitchen Staff](docs/concepts/339-iron-mountain-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Deacon](docs/concepts/340-jade-spirit-deacon.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Guard](docs/concepts/341-jade-spirit-guard.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Archivist](docs/concepts/342-jade-spirit-archivist.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Healer](docs/concepts/343-jade-spirit-healer.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Artisan](docs/concepts/344-jade-spirit-artisan.png) | Front, side, back, face, clothing and equipment |
+| [Jade Spirit Kitchen Staff](docs/concepts/345-jade-spirit-kitchen-staff.png) | Front, side, back, face, clothing and equipment |
 
 *All sheets use English-only labels.*
 
